@@ -79,3 +79,8 @@
 ||stat.pandora.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv^$important
 ||upgrade.mishop.pandora.xiaomi.com
+
+! track
+
+||track.xiachufang.com
+||trackbeat.xiachufang.com
