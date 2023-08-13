@@ -72,7 +72,6 @@
 ||logonext.tv.kuyun.com
 ||mishop.pandora.xiaomi.com
 ||o2o.api.xiaomi.com
-||sdkconfig.ad.xiaomi.com
 ||staging.ai.api.xiaomi.com
 ||stat.pandora.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv^$important
