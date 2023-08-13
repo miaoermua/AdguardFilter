@@ -9,3 +9,9 @@ AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表
 ```url
 https://cdn.jsdelivr.net/gh/miaoermua/AdguardFilter@main/rule.txt
 ```
+
+较快更新选我！
+
+```url
+https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
+```
