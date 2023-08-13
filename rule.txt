@@ -4,17 +4,20 @@
 
 ! Built-in DNS
 
+||tpstelemetry.tencent.com^
+||tt.cn^
+||beizi.biz^
 ||anti-sdk-report.m.jd.com^
 ||*.mobi^
 ||httpdns.gslb.yy.com^
 ||dns*po.lzn376.com^
-||dnsa*f.6zzy.com^
+||dnsa*f.*zzy.com^
 ||dns.jd.com*^
 ||dns-*.eastus.cloudapp.azure.com^
 ||httpdns.yunxindns.com^
 ||dns.msftncsi.com^
-||dnsnio.bf575319dc74.com^
-||dnszcp.zzg18.com^
+||dnsnio.*.com^
+||dnszcp.zzg*.com^
 ||httpdns.n.shifen.com^
 ||httpdns.kwd.inkuai.com^
 ||dns*.londrimarketing.com.br^
@@ -29,12 +32,12 @@
 ||dns1.dimassa.net^
 ||dns.icoa.cn^
 ||dns.cyida.com^
-||dnsrr9.wym317.com^
+||dnsrr9.wym*.com^
 ||httpdns*.cc.cdnhwc*.com^
 ||dnsxyc.wym*.com^
 ||dns.pub^
 ||httpdns.kg.qq.com^
-||httpdns.music.163.com^
+||httpdns.music.*.com^
 ||httpdns.alicdn.com^
 ||dns.loveimgmoe.com^
 ||dnsscan.shadowserver.org^
