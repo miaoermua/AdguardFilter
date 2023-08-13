@@ -1,6 +1,9 @@
 ||tpstelemetry.tencent.com^
 ||tt.cn^
 ||beizi.biz^
+
+! Built-in DNS
+
 ||anti-sdk-report.m.jd.com^
 ||*.mobi^
 ||httpdns.gslb.yy.com^
@@ -49,3 +52,28 @@
 ||da.ssl.msdk.qq.com^
 ||ad.zijieapi.com*^
 ||api.installer.xiaomi.com^$important
+
+! MiTV rules
+
+||ad.mi.com
+||api.io.mi.com
+||ad.xiaomi.com
+||api.ad.xiaomi.com
+||ad1.xiaomi.com
+||b.netcheck.gallery.pandora.xiaomi.com
+||bss.pandora.xiaomi.com
+||config.kuyun.com
+||data.mistat.xiaomi.com
+||de.pandora.xiaomi.com
+||dvb.pandora.xiaomi.com
+||gallery.pandora.xiaomi.com
+||gvod.aiseejapp.atianqi.com
+||jellyfish.pandora.xiaomi.com
+||logonext.tv.kuyun.com
+||mishop.pandora.xiaomi.com
+||o2o.api.xiaomi.com
+||sdkconfig.ad.xiaomi.com
+||staging.ai.api.xiaomi.com
+||stat.pandora.xiaomi.com
+||t7z.cupid.ptqy.gitv.tv^$important
+||upgrade.mishop.pandora.xiaomi.com
