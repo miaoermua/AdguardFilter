@@ -59,7 +59,6 @@
 ! MiTV rules
 
 ||ad.mi.com
-||api.io.mi.com
 ||ad.xiaomi.com
 ||api.ad.xiaomi.com
 ||ad1.xiaomi.com
