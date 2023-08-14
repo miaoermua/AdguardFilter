@@ -1,6 +1,8 @@
 ||tpstelemetry.tencent.com^
 ||tt.cn^
 ||beizi.biz^
+||anti-sdk-report.m.jd.com^
+||*.mobi^
 
 ! Built-in DNS
 
@@ -9,7 +11,7 @@
 ||httpdns-sc.aliyuncs.com^
 ||jnox.now-dns.top^
 ||dns.qq.com^
-||httpdns.c.cdnhwc2.com^
+||httpdns.c.cdnhwc*.com^
 ||h1-us.iot-dns.com^
 ||gaut.now-dns.net^
 ||doujin-assets.dns.doujin.dmm.co.jp^
@@ -20,16 +22,15 @@
 ||dns.weixin.qq.com.cn.lan^
 ||httpdns.n.shifen.com^
 ||dig.zjurl.cn^
-||dns-ir0-81e5-e2909fe2-1780-4920-92b7-8d6c39611e20.eastus.cloudapp.azure.com^
+||dns-ir0-81e5-*.eastus.cloudapp.azure.com^
 ||45-226-183-193.dns.cross.gt^
 ||httpsdns.baidu.com^
-||ecs-159-138-162-226.compute.hwclouds-dns.com^
+||*.compute.hwclouds-dns.com^
 ||dig-ec.bdurl.net^
-||dns.google^
 ||cname-china.vercel-dns.com^
 ||dns.cyida.com^
 ||httpdns.gslb.yy.com^
-||lofter.httpdns.c.163.com^
+||lofter.httpdns.c.*.com^
 ||dns.weibo.cn^
 ||dns-info-static.hitwh.net.cn^
 ||wlay.dd-dns.de^
@@ -40,8 +41,8 @@
 ||httpdns.push.oppomobile.com^
 ||hostmaster.hostmaster.hostmaster.dns.nickybundles.com^
 ||httpdns.bcelive.com^
-||1687786162977-i0waso7c1am.dns-detect.alicdn.com^
-||music.httpdns.c.163.com^
+||*.dns-detect.alicdn.com^
+||music.httpdns.c.*.com^
 ||dig.bdurl.net^
 ||dns.jd.com^
 ||httpdns.kg.qq.com^
@@ -52,9 +53,9 @@
 ||httpdns-sdk.n.netease.com^
 ||iface2.dns.iqiyi.com^
 ||dns.google.com^
-||httpdns.music.ntes53.netease.com^
-||45-226-183-200.dns.cross.gt^
-||httpdns.music.163.com^
+||httpdns.music.*.netease.com^
+||*.dns.cross.gt^
+||httpdns.music.*.com^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
 ||dropbox-dns.com^
@@ -69,22 +70,18 @@
 ||httpdns.meituan.com^
 ||dns.msftncsi.com^
 ||httpdns-api.aliyuncs.com^
-||1687786212624-7n5cch7k4bo.dns-detect.alicdn.com^
+||*.dns-detect.alicdn.com^
 ||api-env.dropbox-dns.com^
 ||oss.dns.aliyun.com.dalvhe.com^
 ||passport.dns.iqiyi.com^
 ||dns.weixin.qq.com^
 ||data.video.dns.iqiyi.com^
 ||dns.supfree.net^
-||tuya-httpdns-1-0ce29e016bf027d8.elb.us-west-2.amazonaws.com^
+||*.elb.us-west-2.amazonaws.com^
 ||httpdns1.cc.cdnhwc5.com^
 ||static.dns.qiyipic.iqiyi.com^
 ||api.yuedu.dns.iqiyi.com^
 ||tpstelemetry.tencent.com^
-||tt.cn^
-||beizi.biz^
-||anti-sdk-report.m.jd.com^
-||*.mobi^
 ||dns*po.lzn376.com^
 ||dnsa*f.*zzy.com^
 ||dns-*.eastus.cloudapp.azure.com^
