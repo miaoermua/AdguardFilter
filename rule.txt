@@ -34,9 +34,9 @@
 ||dns.weixin.qq.com.cn.lan^
 ||httpdns.n.shifen.com^
 ||dig.zjurl.cn^
-||dns-ir0-81e5-e2909fe2-1780-4920-92b7-8d6c39611e20.eastus.cloudapp.azure.com^
+||dns-ir0-81e5-*.eastus.cloudapp.azure.com^
 ||45-226-183-193.dns.cross.gt^
-||ecs-159-138-162-226.compute.hwclouds-dns.com^
+||*.compute.hwclouds-dns.com^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
 ||httpdns.platform.dbankcloud.cn^
@@ -54,7 +54,7 @@
 ||httpdns.push.oppomobile.com^
 ||hostmaster.hostmaster.hostmaster.dns.nickybundles.com^
 ||httpdns.bcelive.com^
-||1687786162977-i0waso7c1am.dns-detect.alicdn.com^
+||*.dns-detect.alicdn.com^
 ||dig.bdurl.net^
 ||www-env.dropbox-dns.com^
 ||iface2.dns.iqiyi.com^
@@ -74,12 +74,12 @@
 ||httpdns.meituan.com^
 ||dns.msftncsi.com^
 ||httpdns-api.aliyuncs.com^
-||1687786212624-7n5cch7k4bo.dns-detect.alicdn.com^
+||*.dns-detect.alicdn.com^
 ||api-env.dropbox-dns.com^
 ||oss.dns.aliyun.com.dalvhe.com^
 ||data.video.dns.iqiyi.com^
 ||dns.supfree.net^
-||tuya-httpdns-1-0ce29e016bf027d8.elb.us-west-2.amazonaws.com^
+||*.elb.us-west-2.amazonaws.com^
 ||static.dns.qiyipic.iqiyi.com^
 ||api.yuedu.dns.iqiyi.com^
 ||anti-sdk-report.m.jd.com^
