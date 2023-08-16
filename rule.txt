@@ -1,4 +1,3 @@
-||tpstelemetry.tencent.com^
 ||tt.cn^
 ||beizi.biz^
 
