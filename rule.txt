@@ -1,36 +1,49 @@
 ||tpstelemetry.tencent.com^
 ||tt.cn^
 ||beizi.biz^
-||anti-sdk-report.m.jd.com^
-||*.mobi^
 
 ! Built-in DNS
 
+||dns.qq.com^
+||httpdns.kg.qq.com^
+||dns.weixin.qq.com^
+||dns.alidns.com^
+||dns.google^
+||dns.google.com^
+||dns.jd.com^
+||httpsdns.baidu.com^
 ||httpdns.danuoyi.tbcache.com^
+||dns.weixin.qq.com.cn^
+||music.httpdns.c.163.com^
+||httpdns.n.netease.com^
+||httpdns.music.163.com^
+||httpdns.volcengineapi.com^
+||httpdns-sdk.n.netease.com^
+||lofter.httpdns.c.163.com^
+||httpdns.gslb.yy.com^
+||passport.dns.iqiyi.com^
 ||cz15.now-dns.top^
 ||httpdns-sc.aliyuncs.com^
 ||jnox.now-dns.top^
-||dns.qq.com^
-||httpdns.c.cdnhwc*.com^
 ||h1-us.iot-dns.com^
 ||gaut.now-dns.net^
 ||doujin-assets.dns.doujin.dmm.co.jp^
 ||httpdns.yunxindns.com^
 ||dig.bdurl.net.lan^
-||dns.alidns.com^
 ||cname.vercel-dns.com^
 ||dns.weixin.qq.com.cn.lan^
 ||httpdns.n.shifen.com^
 ||dig.zjurl.cn^
-||dns-ir0-81e5-*.eastus.cloudapp.azure.com^
+||dns-ir0-81e5-e2909fe2-1780-4920-92b7-8d6c39611e20.eastus.cloudapp.azure.com^
 ||45-226-183-193.dns.cross.gt^
-||httpsdns.baidu.com^
-||*.compute.hwclouds-dns.com^
+||ecs-159-138-162-226.compute.hwclouds-dns.com^
+||httpdns.c.cdnhwc2.com^
+||httpdns1.cc.cdnhwc5.com^
+||httpdns.platform.dbankcloud.cn^
+||httpdns.huaweicloud.com^
 ||dig-ec.bdurl.net^
 ||cname-china.vercel-dns.com^
 ||dns.cyida.com^
-||httpdns.gslb.yy.com^
-||lofter.httpdns.c.*.com^
 ||dns.weibo.cn^
 ||dns-info-static.hitwh.net.cn^
 ||wlay.dd-dns.de^
@@ -41,21 +54,12 @@
 ||httpdns.push.oppomobile.com^
 ||hostmaster.hostmaster.hostmaster.dns.nickybundles.com^
 ||httpdns.bcelive.com^
-||*.dns-detect.alicdn.com^
-||music.httpdns.c.*.com^
+||1687786162977-i0waso7c1am.dns-detect.alicdn.com^
 ||dig.bdurl.net^
-||dns.jd.com^
-||httpdns.kg.qq.com^
 ||www-env.dropbox-dns.com^
-||dns.weixin.qq.com.cn^
-||httpdns.n.netease.com^
-||httpdns.volcengineapi.com^
-||httpdns-sdk.n.netease.com^
 ||iface2.dns.iqiyi.com^
-||dns.google.com^
-||httpdns.music.*.netease.com^
-||*.dns.cross.gt^
-||httpdns.music.*.com^
+||httpdns.music.ntes53.netease.com^
+||45-226-183-200.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
 ||dropbox-dns.com^
@@ -70,18 +74,16 @@
 ||httpdns.meituan.com^
 ||dns.msftncsi.com^
 ||httpdns-api.aliyuncs.com^
-||*.dns-detect.alicdn.com^
+||1687786212624-7n5cch7k4bo.dns-detect.alicdn.com^
 ||api-env.dropbox-dns.com^
 ||oss.dns.aliyun.com.dalvhe.com^
-||passport.dns.iqiyi.com^
-||dns.weixin.qq.com^
 ||data.video.dns.iqiyi.com^
 ||dns.supfree.net^
-||*.elb.us-west-2.amazonaws.com^
-||httpdns1.cc.cdnhwc5.com^
+||tuya-httpdns-1-0ce29e016bf027d8.elb.us-west-2.amazonaws.com^
 ||static.dns.qiyipic.iqiyi.com^
 ||api.yuedu.dns.iqiyi.com^
-||tpstelemetry.tencent.com^
+||anti-sdk-report.m.jd.com^
+||*.mobi^
 ||dns*po.lzn376.com^
 ||dnsa*f.*zzy.com^
 ||dns-*.eastus.cloudapp.azure.com^
@@ -94,7 +96,8 @@
 ||dnsrr9.wym*.com^
 ||dnsxyc.wym*.com^
 
-! track
+! Track
 
+||tpstelemetry.tencent.com^
 ||track.xiachufang.com
 ||trackbeat.xiachufang.com
