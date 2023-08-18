@@ -22,4 +22,4 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## BiliBili
 
-为什么手机看视频不卡，电脑刷视频卡，电脑频繁使用廉价的 PCDN 服务，PCDN 质量不行跑的业务非常多导致用户看视频卡顿明显，无论是 4k 还是 1080p 都非常卡顿，通过规则后将 PCDN 域名封禁 `xy*.x*.x*.*xy-mcdn.bilivideo.com` 就会和手机一样请求 `upos-city-*cos.bilivideo.com` 速度和质量有保证。
+为什么手机看视频不卡，电脑刷视频卡，电脑频繁使用廉价的 PCDN 服务，PCDN 质量不行跑的业务非常多导致用户看视频卡顿明显，无论是 4k 还是 1080p 都非常卡顿，通过规则后将 PCDN 域名封禁 `xy*.x*.x*.*xy-mcdn.bilivideo.com` 就会和手机一样请求 `upos-city-*cos.bilivideo.com` 或者 `cn-gdcity-isp-*-*.bilivideo.com` 速度和质量有保证。
