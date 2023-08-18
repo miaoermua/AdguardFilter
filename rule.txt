@@ -1,6 +1,10 @@
 ||tt.cn^
 ||beizi.biz^
 
+! Ban PCDN BiliBili
+
+||mcdn.bilivideo.cn^
+
 ! Built-in DNS
 
 ||dns.qq.com^
