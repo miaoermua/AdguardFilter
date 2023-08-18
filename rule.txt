@@ -3,7 +3,7 @@
 
 ! Ban PCDN BiliBili
 
-||mcdn.bilivideo.cn^
+||*.mcdn.bilivideo.cn^
 
 ! Built-in DNS
 
