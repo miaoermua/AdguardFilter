@@ -98,6 +98,7 @@
 ||dns1.dimassa.net^
 ||dnsrr9.wym*.com^
 ||dnsxyc.wym*.com^
+||alidns.aliyuncs.com^
 
 ! Track
 
