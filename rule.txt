@@ -33,7 +33,6 @@
 ||doujin-assets.dns.doujin.dmm.co.jp^
 ||httpdns.yunxindns.com^
 ||dig.bdurl.net.lan^
-||cname.vercel-dns.com^
 ||dns.weixin.qq.com.cn.lan^
 ||httpdns.n.shifen.com^
 ||dig.zjurl.cn^
@@ -45,7 +44,6 @@
 ||httpdns.platform.dbankcloud.cn^
 ||httpdns.huaweicloud.com^
 ||dig-ec.bdurl.net^
-||cname-china.vercel-dns.com^
 ||dns.cyida.com^
 ||dns.weibo.cn^
 ||dns-info-static.hitwh.net.cn^
