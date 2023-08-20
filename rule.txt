@@ -60,7 +60,7 @@
 ||www-env.dropbox-dns.com^
 ||iface2.dns.iqiyi.com^
 ||httpdns.music.ntes53.netease.com^
-||45-226-183-200.dns.cross.gt^
+||*.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
 ||dropbox-dns.com^
@@ -73,7 +73,6 @@
 ||bj.vip.waf.dns.iqiyi.com^
 ||ipv6-static.dns.iqiyi.com^
 ||httpdns.meituan.com^
-||dns.msftncsi.com^
 ||httpdns-api.aliyuncs.com^
 ||*.dns-detect.alicdn.com^
 ||api-env.dropbox-dns.com^
