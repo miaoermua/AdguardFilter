@@ -79,7 +79,6 @@
 ||oss.dns.aliyun.com.dalvhe.com^
 ||data.video.dns.iqiyi.com^
 ||dns.supfree.net^
-||*.elb.us-west-2.amazonaws.com^
 ||static.dns.qiyipic.iqiyi.com^
 ||api.yuedu.dns.iqiyi.com^
 ||anti-sdk-report.m.jd.com^
