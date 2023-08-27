@@ -1,22 +1,20 @@
 ||tt.cn^
 ||beizi.biz^
 
-! Ban PCDN BiliBili
+
+! Block PCDN BiliBili
 
 ||*.mcdn.bilivideo.cn^
 
-! Built-in DNS
+! Block Built-in DNS
 
 ||dns.qq.com^
 ||httpdns.kg.qq.com^
-||dns.weixin.qq.com^
 ||dns.alidns.com^
-||dns.google^
-||dns.google.com^
 ||dns.jd.com^
 ||httpsdns.baidu.com^
 ||httpdns.danuoyi.tbcache.com^
-||dns.weixin.qq.com.cn^
+||dns.weixin.qq.com*^
 ||music.httpdns.c.163.com^
 ||httpdns.n.netease.com^
 ||httpdns.music.163.com^
@@ -33,10 +31,8 @@
 ||doujin-assets.dns.doujin.dmm.co.jp^
 ||httpdns.yunxindns.com^
 ||dig.bdurl.net.lan^
-||dns.weixin.qq.com.cn.lan^
 ||httpdns.n.shifen.com^
 ||dig.zjurl.cn^
-||dns-ir0-81e5-*.eastus.cloudapp.azure.com^
 ||*.dns.cross.gt^
 ||*.compute.hwclouds-dns.com^
 ||httpdns.c.cdnhwc2.com^
@@ -104,3 +100,11 @@
 ||tpstelemetry.tencent.com^
 ||track.xiachufang.com
 ||trackbeat.xiachufang.com
+||data.bilibili.cn^
+
+! Block China Track
+
+||miav-cse.avlyun.com^
+||a0.app.xiaomi.com^
+||miui-fxcse.avlyun.com^
+||api.installer.xiaomi.com^$important
