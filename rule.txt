@@ -1,5 +1,23 @@
+! Block ADs
 ||tt.cn^
 ||beizi.biz^
+
+! Block HTTPS Type Query
+*^$dnstype=HTTPS
+
+! Track
+
+||tpstelemetry.tencent.com^
+||track.xiachufang.com^
+||trackbeat.xiachufang.com^
+||data.bilibili.cn^
+
+! Block Anti-Fraud Center Track
+
+||miav-cse.avlyun.com^
+||a0.app.xiaomi.com^
+||miui-fxcse.avlyun.com^
+||api.installer.xiaomi.com^$important
 
 ！Input
 ||ping.pinyin.sogou.com^
@@ -93,20 +111,3 @@
 ||dnsrr9.wym*.com^
 ||dnsxyc.wym*.com^
 ||alidns.aliyuncs.com^
-
-! Block HTTPS Type Query
-*^$dnstype=HTTPS
-
-! Track
-
-||tpstelemetry.tencent.com^
-||track.xiachufang.com
-||trackbeat.xiachufang.com
-||data.bilibili.cn^
-
-! Block China Track
-
-||miav-cse.avlyun.com^
-||a0.app.xiaomi.com^
-||miui-fxcse.avlyun.com^
-||api.installer.xiaomi.com^$important
