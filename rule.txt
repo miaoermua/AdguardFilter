@@ -1,6 +1,8 @@
 ||tt.cn^
 ||beizi.biz^
 
+！Input
+||ping.pinyin.sogou.com^
 
 ! Block PCDN BiliBili
 
