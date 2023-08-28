@@ -1,18 +1,14 @@
 # AdguardFilter
 
-自用 Adguard 规则
+合理的 Adguard 规则
 
-禁用常见软件内置 DNS，禁用 MIUI 安装器 API，将 DNS 权力把握自己手里。
+禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 权力把握自己手里。
 
 AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表 
 
 ```url
 https://cdn.jsdelivr.net/gh/miaoermua/AdguardFilter@main/rule.txt
-```
-
-较快更新选我！
-
-```url
+https://fastly.jsdelivr.net/gh/miaoermua/AdguardFilter@main/rule.txt
 https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 ```
 
@@ -22,4 +18,4 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## BiliBili
 
-为什么手机看视频不卡，电脑刷视频卡，电脑频繁使用廉价的 PCDN 服务，PCDN 质量不行跑的业务非常多导致用户看视频卡顿明显，无论是 4k 还是 1080p 都非常卡顿，通过规则后将 PCDN 域名封禁 `xy*.x*.x*.*xy-mcdn.bilivideo.com` 就会和手机一样请求 `upos-city-*cos.bilivideo.com` 或者 `cn-gdcity-isp-*-*.bilivideo.com` 速度和质量有保证。
+为什么手机看视频不卡，电脑刷视频卡，电脑频繁使用廉价的 PCDN 服务，PCDN 质量不行跑的业务非常多导致用户看视频卡顿明显，无论是 4k 还是 1080p 都非常卡顿，通过规则后将 PCDN 域名封禁 `xy*.x*.x*.*xy-mcdn.bilivideo.com` 就会和手机端一样请求 `upos-city-*cos.bilivideo.com` 或者 `cn-gdcity-isp-*-*.bilivideo.com` 速度和质量有保证，但是不保证 CDN 会拥堵，总比卡顿好！
