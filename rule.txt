@@ -2,6 +2,7 @@
 ||tt.cn^
 ||beizi.biz^
 ||ad.xiaomi.com^
+||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
 ! Block HTTPS Type Query
@@ -37,6 +38,7 @@
 ||dns.alidns.com^
 ||dns.jd.com^
 ||httpsdns.baidu.com^
+||httpdns.browser.miui.com^
 ||httpdns.danuoyi.tbcache.com^
 ||dns.weixin.qq.com*^
 ||music.httpdns.c.163.com^
