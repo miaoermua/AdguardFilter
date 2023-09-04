@@ -1,6 +1,8 @@
 ! Block Ads
 ||tt.cn^
 ||beizi.biz^
+||ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
 
 ! Block HTTPS Type Query
 *^$dnstype=HTTPS
@@ -12,6 +14,7 @@
 ||trackbeat.xiachufang.com^
 ||data.bilibili.cn^
 ||dataflow.biliapi.com^
+||tracking.miui.com^
 
 ! Block Anti-Fraud Center Track
 
