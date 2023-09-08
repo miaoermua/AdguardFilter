@@ -24,7 +24,8 @@
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^$important
 
-！Input
+! Input
+
 ||ping.pinyin.sogou.com^
 
 ! Block PCDN BiliBili
