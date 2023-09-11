@@ -45,7 +45,6 @@
 ||httpsdns.baidu.com^
 ||httpdns.browser.miui.com^
 ||httpdns.danuoyi.tbcache.com^
-||httpdns.ocloud.oppomobile.com^
 ||dns.weixin.qq.com*^
 ||music.httpdns.c.163.com^
 ||httpdns.n.netease.com^
@@ -81,7 +80,7 @@
 ||ju78.now-dns.top^
 ||dns.jd.com.gslb.qianxun.com^
 ||httpdns.push.oppomobile.com^
-||hostmaster.hostmaster.hostmaster.dns.nickybundles.com^
+||httpdns.ocloud.oppomobile.com^
 ||httpdns.bcelive.com^
 ||*.dns-detect.alicdn.com^
 ||dig.bdurl.net^
