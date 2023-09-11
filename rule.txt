@@ -16,6 +16,10 @@
 ||data.bilibili.cn^
 ||dataflow.biliapi.com^
 ||tracking.miui.com^
+||tracker.gitee.com^
+||track.lc.quark.cn^
+||track.ucdns.uc.cn^
+||track.uc.cn^
 
 ! Block Anti-Fraud Center Track
 
@@ -41,6 +45,7 @@
 ||httpsdns.baidu.com^
 ||httpdns.browser.miui.com^
 ||httpdns.danuoyi.tbcache.com^
+||httpdns.ocloud.oppomobile.com^
 ||dns.weixin.qq.com*^
 ||music.httpdns.c.163.com^
 ||httpdns.n.netease.com^
