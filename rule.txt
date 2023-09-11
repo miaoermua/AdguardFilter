@@ -19,7 +19,9 @@
 ||tracker.gitee.com^
 ||track.lc.quark.cn^
 ||track.ucdns.uc.cn^
+||gjtrack.uc.cn^
 ||track.uc.cn^
+||track.easeus.com^
 
 ! Block Anti-Fraud Center Track
 
