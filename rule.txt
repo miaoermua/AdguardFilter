@@ -1,4 +1,5 @@
 ! Block Ads
+
 ||tt.cn^
 ||beizi.biz^
 ||ad.xiaomi.com^
@@ -8,7 +9,7 @@
 ! Block HTTPS Type Query
 *^$dnstype=HTTPS
 
-! Track
+! Tracking
 
 ||tpstelemetry.tencent.com^
 ||track.xiachufang.com^
@@ -22,8 +23,10 @@
 ||gjtrack.uc.cn^
 ||track.uc.cn^
 ||track.easeus.com^
+||track.mituo.cn^
+||cc-api-data.adobe.io^
 
-! Block Anti-Fraud Center Track
+! Block Anti-Fraud Center Tracking
 
 ||miav-cse.avlyun.com^
 ||a0.app.xiaomi.com^
