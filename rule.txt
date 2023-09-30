@@ -44,8 +44,10 @@
 ! Block Built-in DNS
 
 ||dns.qq.com^
+||httpdns.pro^
 ||httpdns.kg.qq.com^
 ||dns.alidns.com^
+||httpdns.alicdn.com^
 ||dns.jd.com^
 ||httpsdns.baidu.com^
 ||httpdns.browser.miui.com^
