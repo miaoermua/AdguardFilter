@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 内置 DNS
 
-为什么屏蔽 APP 内置 DNS？因为内置 DNS 会绕过 AdGuard Home，去请求 APP 内置的 HTTPDNS，不利于我们追踪设备的 DNS 请求。通过抓包，发现请求使用的是 HTTP，不是 DoH（HTTPS），使用 HTTPDNS 传输并采用对称加密。对于我们而言，DNS 请求不可控，虽然可以获得 APP 厂商的 CDN 调度，但是厂商可以从 DNS 请求的角度，为用户打标签，获得更多角度的你（悄悄告诉你，在正常情况下，你使用 APP 内置浏览器访问别的网站，DNS 请求 也是走这个 HTTPDNS 哦？也就是说，你通过内置浏览器访问什么站，厂商也是知道的，同样可以作为你这个用户数据的一部分）。
+为什么屏蔽 APP 内置 DNS？因为内置 DNS 会绕过 AdGuard Home，去请求 APP 内置的 HTTPDNS，不利于我们追踪设备的 DNS 请求。通过抓包，发现请求使用的是 HTTP，不是 DoH（HTTPS），使用 HTTPDNS 传输并采用对称加密（所谓自研加密：拿到 Key 就可以进行流量分析，对流量审计设备非常友好。）。对于我们而言，DNS 请求不可控，虽然可以获得 APP 厂商的 CDN 调度，但是厂商可以从 DNS 请求的角度，为用户打标签，获得更多角度的你（悄悄告诉你，在正常情况下，你使用 APP 内置浏览器访问别的网站，DNS 请求 也是走这个 HTTPDNS 哦？也就是说，你通过内置浏览器访问什么站，厂商也是知道的，同样可以作为你这个用户数据的一部分）。
 
 ## BiliBili
 
