@@ -6,8 +6,7 @@
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
-! Block HTTPS Type Query
-*^$dnstype=HTTPS
+
 
 ! Tracking
 
