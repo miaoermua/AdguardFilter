@@ -18,4 +18,6 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## BiliBili
 
-为什么手机看视频不卡，电脑刷视频卡，电脑访问容易命中 PCDN 节点，这些节点质量参差不齐，可能会导致看 冷门视频/直播 严重卡顿，通过规则后将 PCDN 域名封禁 `xy*.x*.x*.*xy-mcdn.bilivideo.com` 就会和手机端一样请求诸如 `upos-city-*cos.bilivideo.com` 或者 `cn-gdcity-isp-*-*.bilivideo.com` 这类官方 CDN 或者教育网 CDN，速度和质量有保证，在一般情况下，可以很好的缓解命中低质量 CDN 节点带来的卡顿，不保证高峰期依旧流畅。
+为什么手机看视频不卡，电脑刷视频卡，电脑访问容易命中 PCDN 节点，这些节点质量参差不齐，可能会导致看 冷门视频/直播 严重卡顿，通过规则后将 PCDN 域名封禁 `xy*.x*.x*.*xy-mcdn.bilivideo.com` 就会和手机端一样请求诸如 `upos-city-*cos.bilivideo.com` 这类官方 CDN 或者教育网 CDN，速度和质量有保证，在一般情况下，可以很好的缓解命中低质量 CDN 节点带来的卡顿，不保证高峰期依旧流畅。
+
+缺点: 不能缓存视频
