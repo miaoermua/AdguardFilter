@@ -1,8 +1,10 @@
 # AdguardFilter
 
-更合理 Adguard 规则，轻松缓存你的网络。
+**更合理 Adguard 规则，轻松缓存你的网络。**
 
 禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 请求牢牢地把握自己手里。
+
+人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)
 
 AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表(任选其一)
 
