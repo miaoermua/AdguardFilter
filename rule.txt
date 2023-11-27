@@ -24,6 +24,7 @@
 ||ar.umeng.com^
 ||at.umeng.com^
 ||au.umeng.com^
+||msg.umengcloud.com^
 ||errlog.umeng.com^
 ||oc.umeng.com^
 ||ocx.umeng.com^
@@ -35,6 +36,7 @@
 ||umengjmacs.m.taobao.com^
 ||umengacs.m.taobao.com^
 ||*.bjmantis.net^
+||iyes.youku.com^
 
 ! # Ads - Coolapk
 
@@ -79,6 +81,7 @@
 ||track.ucdns.uc.cn^
 ||gjtrack.uc.cn^
 ||track.uc.cn^
+||px.ucweb.com^
 ||track.easeus.com^
 ||track.mituo.cn^
 ||cc-api-data.adobe.io^
@@ -93,6 +96,8 @@
 ||loggw.alipay.com.cn^
 ||zhihu-web-analytics.zhihu.com^
 ||sugar.zhihu.com^
+||amdc.m.taobao.com^
+||dorangesource.alicdn.com^
 
 ! Block Anti-Fraud Center Tracking
 
