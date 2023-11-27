@@ -1,6 +1,6 @@
 # AdguardFilter
 
-**更合理 Adguard 规则，轻松缓存你的网络。**
+**更合理 AdGuard 规则，轻松缓存你的网络。**
 
 禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 请求牢牢地把握自己手里。
 
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 完整版
 
-因为不影响存量用户 rule.txt 为标准规则，因为 Apple 较多域名，所以单独增加了 Apple 规则。请自行选择，如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，否则由 Apple 提供的服务将无法使用(如:iCloud,Find,App Store,music……)。
+因为不影响存量用户 rule.txt 为标准规则，因为 Apple 较多域名，所以单独增加了 Apple 规则。请自行选择，如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，否则由 Apple 提供的服务将无法使用 (如: iCloud,Find,App Store,Apple Music……)。
 
 黑名单列表: `https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/bad_apple.txt`
 
