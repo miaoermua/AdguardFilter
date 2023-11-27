@@ -1,0 +1,6 @@
+! Apple
+
+||gateway.fe.apple-dns.cn^
+||gateway.icloud.com.cn^
+||*.apple-dns.cn^
+||*.apple-dns.net^
