@@ -9,6 +9,7 @@
 ||umeng.com.gds.alibabadns.com^
 ||alog.umeng.com^
 ||alogus.umeng.com^
+||alogs.umengcloud.com^
 ||alogsus.umengcloud.com^
 ||errnewlog.umeng.com^
 ||utoken.umeng.com^
@@ -33,6 +34,7 @@
 ||uop.umeng.com^
 ||umengjmacs.m.taobao.com^
 ||umengacs.m.taobao.com^
+||*.bjmantis.net^
 
 ! # Ads - Coolapk
 
@@ -80,6 +82,17 @@
 ||track.easeus.com^
 ||track.mituo.cn^
 ||cc-api-data.adobe.io^
+||log*.aliyuncs.com^
+||api.sec.miui.com^
+||metok.sys.miui.com^
+||auth.be.sec.miui.com^
+||api.miui.security.xiaomi.com^
+||g.doubleclick.net^
+||google-analytics.com^
+||beacons*.gvt3.com^
+||loggw.alipay.com.cn^
+||zhihu-web-analytics.zhihu.com^
+||sugar.zhihu.com^
 
 ! Block Anti-Fraud Center Tracking
 

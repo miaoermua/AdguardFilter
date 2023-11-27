@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 跟踪器
 
-去除了明显特征的跟踪器域名。
+去除了明显特征的跟踪器域名，米家可用。
 
 ## 内置 DNS
 
