@@ -1,11 +1,38 @@
 ! Block Ads
 
 ||tt.cn^
+||ag.qq.com^
 ||beizi.biz^
 ||ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 ||umeng.com.gds.alibabadns.com^
+||alog.umeng.com^
+||alogus.umeng.com^
+||alogsus.umengcloud.com^
+||errnewlog.umeng.com^
+||utoken.umeng.com^
+||umeng.co^
+||alog.umeng.co^
+||au.umeng.co^
+||oc.umeng.co^
+||alog.umeng.com^
+||alog-default.umeng.com^
+||alogs.umeng.com^
+||alogsus.umeng.com^
+||ar.umeng.com^
+||at.umeng.com^
+||au.umeng.com^
+||errlog.umeng.com^
+||oc.umeng.com^
+||ocx.umeng.com^
+||ouplog.umeng.com^
+||plbslog.umeng.com^
+||sec.umeng.com^
+||ulogs.umeng.com^
+||uop.umeng.com^
+||umengjmacs.m.taobao.com^
+||umengacs.m.taobao.com^
 
 ! # Ads - Coolapk
 
@@ -86,7 +113,6 @@
 ||httpsdns.baidu.com^
 ||dns.alidns.com^
 ||httpdns.alicdn.com^
-||alidns.aliyuncs.com^
 ||dns.weixin.qq.com*^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -138,7 +164,6 @@
 ||*.dns-detect.alicdn.com^
 ||dig.bdurl.net^
 ||www-env.dropbox-dns.com^
-||iface2.dns.iqiyi.com^
 ||httpdns.music.ntes53.netease.com^
 ||*.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
@@ -150,17 +175,18 @@
 ||httpdns.baidubce.com^
 ||tf-4.now-dns.org^
 ||dns-test.research.a10protects.com^
+||iface2.dns.iqiyi.com^
 ||bj.vip.waf.dns.iqiyi.com^
 ||ipv6-static.dns.iqiyi.com^
+||data.video.dns.iqiyi.com^
+||static.dns.qiyipic.iqiyi.com^
+||api.yuedu.dns.iqiyi.com^
 ||httpdns.meituan.com^
 ||httpdns-api.aliyuncs.com^
 ||*.dns-detect.alicdn.com^
 ||api-env.dropbox-dns.com^
 ||oss.dns.aliyun.com.dalvhe.com^
-||data.video.dns.iqiyi.com^
 ||dns.supfree.net^
-||static.dns.qiyipic.iqiyi.com^
-||api.yuedu.dns.iqiyi.com^
 ||anti-sdk-report.m.jd.com^
 ||*.mobi^
 ||dns*po.lzn376.com^
