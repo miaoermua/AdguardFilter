@@ -38,6 +38,7 @@
 ||*.bjmantis.net^
 ||iyes.youku.com^
 
+
 ! # Ads - Coolapk
 
 ||ctobsnssdk.com^
@@ -60,6 +61,7 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 
+
 ! # Ads - Tencent
 
 @@||aeventlog.beacon.qq.com^
@@ -75,6 +77,8 @@
 ||trackbeat.xiachufang.com^
 ||data.bilibili.cn^
 ||dataflow.biliapi.com^
+||android.bugly.qq.com^
+||line1-log.biligame.net^
 ||tracking.miui.com^
 ||tracker.gitee.com^
 ||track.lc.quark.cn^
@@ -90,6 +94,7 @@
 ||metok.sys.miui.com^
 ||auth.be.sec.miui.com^
 ||api.miui.security.xiaomi.com^
+||beacon-api.aliyuncs.com^
 ||g.doubleclick.net^
 ||google-analytics.com^
 ||beacons*.gvt3.com^
@@ -99,12 +104,14 @@
 ||amdc.m.taobao.com^
 ||dorangesource.alicdn.com^
 
+
 ! Block Anti-Fraud Center Tracking
 
 ||miav-cse.avlyun.com^
 ||a0.app.xiaomi.com^
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^$important
+
 
 ! Input
 
@@ -114,9 +121,6 @@
 
 ||*.mcdn.bilivideo.cn^
 
-! Apple
-
-||doh.dns.apple.com^
 
 ! BAT Built-in DNS
 
@@ -133,8 +137,10 @@
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 
+
 ! Block Built-in DNS
 
+||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.browser.miui.com^
 ||httpdns.danuoyi.tbcache.com^
