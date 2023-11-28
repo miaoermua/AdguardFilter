@@ -37,7 +37,7 @@
 ||umengacs.m.taobao.com^
 ||*.bjmantis.net^
 ||iyes.youku.com^
-
+||ads.cup.com.cn^
 
 ! # Ads - Coolapk
 
@@ -103,6 +103,10 @@
 ||sugar.zhihu.com^
 ||amdc.m.taobao.com^
 ||dorangesource.alicdn.com^
+||cgicol.amap.com^
+||applog.uc.cn^
+||log.mmstat.com^
+||report.*.qq.com^
 
 
 ! Block Anti-Fraud Center Tracking
