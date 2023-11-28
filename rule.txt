@@ -1,6 +1,7 @@
 ! Block Ads
 
 ||tt.cn^
+||e.qq.com^
 ||ag.qq.com^
 ||beizi.biz^
 ||ad.xiaomi.com^
@@ -51,11 +52,6 @@
 ||aaid.umeng.com^
 ||tnc*.zijieapi.com^
 ||mssdk-bu.bytedance.com^
-||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
-||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
-||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
-||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
-||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
