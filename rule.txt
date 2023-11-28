@@ -103,7 +103,9 @@
 ||applog.uc.cn^
 ||log.mmstat.com^
 ||report.*.qq.com^
-
+||up-hl.3g.qq.com^
+||log*-misc-lf.amemv.com^
+||ib.snssdk.com^
 
 ! Block Anti-Fraud Center Tracking
 
