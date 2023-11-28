@@ -124,5 +124,8 @@
 @@||playgrounds-cdn.apple.com^$important
 @@||sylvan.apple.com^$important
 
-@@||amp-api.music-*apple.com.*
-@@||weather-data.apple.com*
+@@||amp-api.music-*apple.com.*^
+@@||weather-data.apple.com*^
+@@||gspe*.apple.com*^
+@@||www.apple.com*^
+@@||support.apple.com*^
