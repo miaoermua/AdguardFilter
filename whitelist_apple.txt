@@ -1,3 +1,5 @@
+! https://support.apple.com/zh-cn/HT210060
+
 @@||albert.apple.com^$important
 @@||captive.apple.com^$important
 @@||gs.apple.com^$important
