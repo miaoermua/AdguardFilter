@@ -123,3 +123,6 @@
 @@||playgrounds-assets-cdn.apple.com^$important
 @@||playgrounds-cdn.apple.com^$important
 @@||sylvan.apple.com^$important
+
+@@||amp-api.music-*apple.com.*
+@@||weather-data.apple.com*
