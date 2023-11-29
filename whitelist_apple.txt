@@ -133,3 +133,4 @@
 @@||*apple.com*^
 @@||quota*apple*^
 @@||support.apple.com*^
+@@||dispatcher.is.autonavi.com^$important
