@@ -371,7 +371,7 @@
 @@||*.gvt1.com^
 @@||gweb-gettingstartedguide.appspot.com^$important
 @@||m.google.com^$important
-@@||mtalk.google.com^$important
+@@||*mtalk.google.com^$important
 @@||omahaproxy.appspot.com^$important
 @@||pack.google.com^$important
 @@||policies.google.com^$important
