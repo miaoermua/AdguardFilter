@@ -388,6 +388,21 @@
 @@||www.gstatic.com^$important
 @@||youtubeeducation.com^$important
 
+! Netflix
+
+@@||fast.com^$important
+@@||*netflix.ca^
+@@||*netflix.com^
+@@||*netflix.net^
+@@||*netflixinvestor.com^
+@@||*netflixtechblog.com^
+@@||*nflxext.com^
+@@||*nflximg.com^
+@@||*nflximg.net^
+@@||*nflxsearch.net^
+@@||*nflxso.net^
+@@||*nflxvideo.net^
+
 
 ! Steam
 ! Global: https: //help.steampowered.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB
@@ -427,3 +442,9 @@
 @@||*live.com.akadns.net*^
 @@||*akamaiedge.net*^
 @@||*msedge.net*^
+
+
+! Google addendum
+
+@@||*googlevideo.com*^
+@@||*ggpht.com^
