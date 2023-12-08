@@ -344,6 +344,22 @@
 @@||*.static.microsoft^
 @@||*.usercontent.microsoft^
 
+
+! Steam
+! Global: https: //help.steampowered.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB
+! CN - Perfect World: https://help.steamchina.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB
+
+@@||*steampowered.com^
+@@||*steamcommunity.com^
+@@||*steamchina.com^
+@@||my.steamchina.com^$important
+@@||*steamgames.com^
+@@||*steamusercontent.com^
+@@||*steamcontent.com^
+@@||*steamstatic.com^
+@@||*akamaihd.net^
+
+
 ! Apple addendum
 
 @@||dispatcher.is.autonavi.com^$important
