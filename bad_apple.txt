@@ -4,4 +4,3 @@
 ||gateway.icloud.com.cn^
 ||*.apple-dns.cn^
 ||*.apple-dns.net^
-||*.akadns.net^
