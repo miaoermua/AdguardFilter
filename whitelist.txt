@@ -448,3 +448,38 @@
 
 @@||*googlevideo.com*^
 @@||*ggpht.com^
+
+! Epic Games
+! https://www.epicgames.com/help/zh-CN/c5719357686683/c5719341353627/epic-games-fortnite-a5720352654107#whitelist
+
+@@||account-public-service-prod03.ol.epicgames.com^
+@@||launcherwaitingroom-public-service-prod06.ol.epicgames.com^
+@@||launcher-public-service-prod06.ol.epicgames.com^
+@@||www.epicgames.com^
+@@||launcher-website-prod07.ol.epicgames.com^
+@@||accounts.launcher-website-prod07.ol.epicgames.com^
+@@||accounts.epicgames.com^
+@@||cdn1.unrealengine.com^
+@@||cdn2.unrealengine.com^
+@@||datarouter.ol.epicgames.com^
+@@||entitlement-public-service-prod08.ol.epicgames.com^
+@@||orderprocessor-public-service-ecomprod01.ol.epicgames.com^
+@@||catalog-public-service-prod06.ol.epicgames.com^
+@@||friends-public-service-prod06.ol.epicgames.com^
+@@||lightswitch-public-service-prod06.ol.epicgames.com^
+@@||accountportal-website-prod07.ol.epicgames.com^
+@@||ut-public-service-prod10.ol.epicgames.com^
+@@||epicgames-download1.akamaized.net^
+@@||download.epicgames.com^
+@@||download2.epicgames.com^
+@@||download3.epicgames.com^
+@@||download4.epicgames.com^
+@@||static-assets-prod.epicgames.com^
+@@||store-site-backend-static.ak.epicgames.com^
+@@||store-content.ak.epicgames.com^
+@@||library-service.live.use1a.on.epicgames.com^
+@@||datastorage-public-service-liveegs.live.use1a.on.epicgames.com^
+@@||fastly-download.epicgames.com^
+@@||store.epicgames.com^
+@@||launcher.store.epicgames.com^
+@@||*epicgames*myqcloud.com*^
