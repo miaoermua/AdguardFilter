@@ -140,5 +140,8 @@
 @@||login.live.com^$important
 @@||api.onedrive.com^$important
 @@||*microsoft.com*akadns.net*^
+@@||*microsoft.com.edgekey.net*^
+@@||*microsoft.akadns.net*^
 @@||*onedrive.akadns.net*^
+@@||*live.com.akadns.net*^
 @@||*msedge.net*^
