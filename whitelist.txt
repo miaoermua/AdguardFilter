@@ -344,6 +344,50 @@
 @@||*.static.microsoft^
 @@||*.usercontent.microsoft^
 
+! Google
+! https://support.google.com/chrome/a/answer/6334001?hl=zh-Hans
+
+@@||*.1e100.net1^
+@@||accounts.google.com^$important
+@@||accounts.google.*^
+@@||accounts.gstatic.com^$important
+@@||accounts.youtube.com^$important
+@@||alt*.gstatic.com3^
+@@||chromeos-ca.gstatic.com^$important
+@@||chromeosquirksserver-pa.googleapis.com^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients2.googleusercontent.com^$important
+@@||cloudsearch.googleapis.com^$important
+@@||commondatastorage.googleapis.com^$important
+@@||cros-omahaproxy.appspot.com^$important
+@@||dl.google.com^$important
+@@||dl-ssl.google.com^$important
+@@||enterprise-safebrowsing.googleapis.com^$important
+@@||firebaseperusertopics-pa.googleapis.com^$important
+@@||*.googleusercontent.com^
+@@||*.gvt1.com^
+@@||gweb-gettingstartedguide.appspot.com^$important
+@@||m.google.com^$important
+@@||mtalk.google.com^$important
+@@||omahaproxy.appspot.com^$important
+@@||pack.google.com^$important
+@@||policies.google.com^$important
+@@||printerconfigurations.googleusercontent.com^$important
+@@||safebrowsing-cache.google.com^$important
+@@||safebrowsing.google.com^$important
+@@||safebrowsing.googleapis.com^$important
+@@||sb-ssl.google.com^$important
+@@||scone-pa.clients6.google.com^$important
+@@||ssl.gstatic.com^$important
+@@||storage.googleapis.com^$important
+@@||tools.google.com^$important
+@@||www.googleapis.com^$important
+@@||www.gstatic.com^$important
+@@||youtubeeducation.com^$important
+
 
 ! Steam
 ! Global: https: //help.steampowered.com/zh-cn/faqs/view/2EA8-4D75-DA21-31EB
