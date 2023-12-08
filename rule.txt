@@ -108,6 +108,8 @@
 ||ib.snssdk.com^
 ||afd.baidu.com^
 ||*.nrb.footprintdns.com^
+||tracker.didistatic.com^
+
 
 ! Block Anti-Fraud Center Tracking
 
