@@ -388,6 +388,7 @@
 @@||www.gstatic.com^$important
 @@||youtubeeducation.com^$important
 
+
 ! Netflix
 
 @@||fast.com^$important
@@ -448,6 +449,7 @@
 
 @@||*googlevideo.com*^
 @@||*ggpht.com^
+
 
 ! Epic Games
 ! https://www.epicgames.com/help/zh-CN/c5719357686683/c5719341353627/epic-games-fortnite-a5720352654107#whitelist
