@@ -107,6 +107,7 @@
 ||log*-misc-lf.amemv.com^
 ||ib.snssdk.com^
 ||afd.baidu.com^
+||*.nrb.footprintdns.com^
 
 ! Block Anti-Fraud Center Tracking
 
