@@ -134,3 +134,11 @@
 @@||quota*apple*^
 @@||support.apple.com*^
 @@||dispatcher.is.autonavi.com^$important
+
+! MicroSoft
+
+@@||login.live.com^$important
+@@||api.onedrive.com^$important
+@@||*microsoft.com*akadns.net*^
+@@||*onedrive.akadns.net*^
+@@||*msedge.net*^
