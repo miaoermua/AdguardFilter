@@ -105,6 +105,7 @@
 ||report.*.qq.com^
 ||up-hl.3g.qq.com^
 ||log*-misc-lf.amemv.com^
+||dig.bdurl.net^
 ||ib.snssdk.com^
 ||afd.baidu.com^
 ||*.nrb.footprintdns.com^
@@ -165,7 +166,6 @@
 ||gaut.now-dns.net^
 ||doujin-assets.dns.doujin.dmm.co.jp^
 ||httpdns.yunxindns.com^
-||dig.bdurl.net.lan^
 ||httpdns.n.shifen.com^
 ||dig.zjurl.cn^
 ||*.dns.cross.gt^
@@ -187,7 +187,6 @@
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.bcelive.com^
 ||*.dns-detect.alicdn.com^
-||dig.bdurl.net^
 ||www-env.dropbox-dns.com^
 ||httpdns.music.ntes53.netease.com^
 ||*.dns.cross.gt^
