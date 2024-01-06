@@ -110,6 +110,9 @@
 ||afd.baidu.com^
 ||*.nrb.footprintdns.com^
 ||tracker.didistatic.com^
+||*-inapps.appsflyersdk.com^
+||fp-it*.fengkongcloud.com^
+||*-launches.appsflyersdk.com^
 
 
 ! Block Anti-Fraud Center Tracking
