@@ -229,3 +229,4 @@
 ||dnsxyc.wym*.com^
 ||httpdns.tantanapp.com^
 ||httpdns.yunxindns.com^
+||httpdns.*.yy.com^
