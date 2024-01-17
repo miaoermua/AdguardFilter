@@ -151,6 +151,7 @@
 
 ! Block Built-in DNS
 
+||*.lan^
 ||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.browser.miui.com^
