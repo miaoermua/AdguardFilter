@@ -344,6 +344,23 @@
 @@||*.static.microsoft^
 @@||*.usercontent.microsoft^
 
+
+! Xiaomi
+! https://github.com/unknownFalleN/xiaomi-dns-blocklist
+
+@@||account.xiaomi.com^$important
+@@||api.account.xiaomi.com^$important
+@@||ruac.account.xiaomi.com^$important
+@@||sgpac.account.xiaomi.com^$important
+@@||api.io.mi.com^$important
+@@||i2.api.io.mi.com^$important
+@@||find.api.micloud.xiaomi.net^$important
+@@||*.find.api.micloud.xiaomi.net^
+@@||global.market.xiaomi.com^$important
+@@||update.intl.miui.com^$important
+@@||update.miui.com^$important
+
+
 ! Google
 ! https://support.google.com/chrome/a/answer/6334001?hl=zh-Hans
 
