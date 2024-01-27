@@ -47,7 +47,6 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pglstatp-toutiao.com^
-||dm.toutiao.com^
 ||ulogs.umeng.com^
 ||aaid.umeng.com^
 ||tnc*.zijieapi.com^
