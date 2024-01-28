@@ -231,3 +231,4 @@
 ||httpdns.tantanapp.com^
 ||httpdns.yunxindns.com^
 ||httpdns.*.yy.com^
+||dotserver.douyucdn.cn^
