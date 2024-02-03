@@ -88,6 +88,7 @@
 ||api.sec.miui.com^
 ||metok.sys.miui.com^
 ||auth.be.sec.miui.com^
+||tracker.ai.xiaomi.com^
 ||api.miui.security.xiaomi.com^
 ||beacon-api.aliyuncs.com^
 ||g.doubleclick.net^
@@ -151,6 +152,7 @@
 ! Block Built-in DNS
 
 ||*.lan^
+||_*._*^
 ||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.browser.miui.com^
