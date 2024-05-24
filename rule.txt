@@ -39,6 +39,11 @@
 ||*.bjmantis.net^
 ||iyes.youku.com^
 ||ads.cup.com.cn^
+||ad-channel.diwodiwo.xyz^
+||wanba.baidu.com^
+||iwan.baidu.com^
+||wan.baidu.com^
+||youxi.baidu.com^
 
 ! # Ads - Coolapk
 
@@ -234,3 +239,4 @@
 ||httpdns.yunxindns.com^
 ||httpdns.*.yy.com^
 ||dotserver.douyucdn.cn^
+||*dns*.adobe.com
