@@ -40,10 +40,12 @@
 ||iyes.youku.com^
 ||ads.cup.com.cn^
 ||ad-channel.diwodiwo.xyz^
-||wanba.baidu.com^
-||iwan.baidu.com^
-||wan.baidu.com^
-||youxi.baidu.com^
+||ad.api.3g.youku.com^
+||ad.api.3g.tudou.com^
+||ad.youku.com^
+||msg.71.am^
+||dc.letv.com^
+
 
 ! # Ads - Coolapk
 
@@ -143,6 +145,10 @@
 ||httpdns.pro^
 ||httpdns.kg.qq.com^
 ||httpsdns.baidu.com^
+||wanba.baidu.com^
+||iwan.baidu.com^
+||wan.baidu.com^
+||youxi.baidu.com^
 ||dns.alidns.com^
 ||httpdns.alicdn.com^
 ||amdc.alipay.com^
