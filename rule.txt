@@ -1,5 +1,7 @@
 ! Block Adscompany
+some sources: https://github.com/jdlingyu/ad-wars
 
+||*.mobi^
 ||tt.cn^
 ||beizi.biz^
 ||umeng.com.gds.alibabadns.com^
@@ -62,6 +64,18 @@
 ||click*forhz.adsmogo.com^
 ||my.adsmogo.com^
 ||www.adsmogo.com^
+||w.inmobi.com^
+||cf.cdn.inmobi.com^
+||ad.sohu.com^
+||adsyndication.msn.com^
+||ad.gtbrowser.com^
+||adx.xiaodutv.com^
+||adx-static.ksosoft.com^
+||e.duomeng.org^
+||guomob.com^
+||ad.madserving.com^
+||ads.static.madserving.com^
+||adv.madserving.com^
 
 ! # Ads - Tencent
 
@@ -279,9 +293,8 @@
 ||dns.weibo.cn^
 ||dns-info-static.hitwh.net.cn^
 ||wlay.dd-dns.de^
-||s1310ipmi.now-dns.net^
+||now-dns.net^
 ||httpdns.kwd.inkuai.com^
-||ju78.now-dns.top^
 ||dns.jd.com.gslb.qianxun.com^
 ||httpdns.push.oppomobile.com^
 ||httpdns.ocloud.oppomobile.com^
@@ -297,7 +310,7 @@
 ||httpdns.bilivideo.com^
 ||dns.icoa.cn^
 ||httpdns.baidubce.com^
-||tf-4.now-dns.org^
+||now-dns.org^
 ||dns-test.research.a10protects.com^
 ||iface2.dns.iqiyi.com^
 ||bj.vip.waf.dns.iqiyi.com^
@@ -312,7 +325,6 @@
 ||oss.dns.aliyun.com.dalvhe.com^
 ||dns.supfree.net^
 ||anti-sdk-report.m.jd.com^
-||*.mobi^
 ||dns*po.lzn376.com^
 ||dnsa*f.*zzy.com^
 ||dns-*.eastus.cloudapp.azure.com^
