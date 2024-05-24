@@ -1,12 +1,7 @@
-! Block Ads
+! Block Adscompany
 
 ||tt.cn^
-||e.qq.com^
-||ag.qq.com^
 ||beizi.biz^
-||ad.xiaomi.com^
-||o2o.api.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||umeng.com.gds.alibabadns.com^
 ||alog.umeng.com^
 ||alogus.umeng.com^
@@ -51,6 +46,32 @@
 ||gozendata.com^
 ||gz-data.com^
 ||gzads.com^
+||adx.apiok.net^
+||analytics.snssdk.com^
+||ad.toutiao.com^
+||adshare.toutiao.com^
+||ad-sdk.aiclk.com^
+||ads.flurry.com^
+||www.adsage.cn^
+||download.adsage.com^
+||mws.adsage.com^
+||trc.adsage.com^
+||config.mobisage.cn^
+||adsame.com^
+||@adsmogo.com^
+||click*forhz.adsmogo.com^
+||my.adsmogo.com^
+||www.adsmogo.com^
+
+! # Ads - Tencent
+
+@@||aeventlog.beacon.qq.com^
+@@||cfg.flurry.com^
+@@||data.flurry.com^
+#@@||otheve.beacon.qq.com^
+
+||e.qq.com^
+||ag.qq.com^
 ||ad.weixin.qq.com^
 ||ad.qun.qq.com^
 ||adsclick.qq.com^
@@ -66,7 +87,6 @@
 ||adsolution.imtt.qq.com^
 ||adsqqclick.qq.com^
 ||adsrich.qq.com^
-||adss.video.qq.com^
 ||adstextview.qq.com^
 ||adsview.qq.com^
 ||adsview2.qq.com^
@@ -85,10 +105,35 @@
 ||d.gdt.qq.com^
 ||d3g.qq.com^
 ||data.qq.com^
-||analytics.snssdk.com^
-||ad.toutiao.com^
-||adshare.toutiao.com^
+||fw.qq.com^
+||mdt.qq.com^
 
+
+! # Ads - Google
+
+||media.mobpartner.mobi^
+||ads2.mediaarmor.com^
+||cdn.nearbyad.com^
+||ads.flurry.com^
+||gemini.yahoo.com^
+||admin.vserv.mobi^
+||c.vserv.mobi^
+||ads.vserv.mobi^
+||sf.vserv.mobi^
+||a.medialytics.com^
+||c.medialytics.com^
+||googlevads-cn.com^
+||googleads-cn.com^
+||googletagmanager-cn.com^
+||googletagservices-cn.com^
+
+! # Ads - Baidu
+
+||wanba.baidu.com^
+||iwan.baidu.com^
+||wan.baidu.com^
+||youxi.baidu.com^
+||adm.baidu.com^
 
 ! # Ads - Coolapk
 
@@ -107,12 +152,11 @@
 ||pangolin-sdk-toutiao-b.com^
 
 
-! # Ads - Tencent
+! # Ads - Xiaomi
 
-@@||aeventlog.beacon.qq.com^
-@@||cfg.flurry.com^
-@@||data.flurry.com^
-#@@||otheve.beacon.qq.com^
+||ad.xiaomi.com^
+||o2o.api.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
 
 
 ! Tracking
@@ -188,10 +232,6 @@
 ||httpdns.pro^
 ||httpdns.kg.qq.com^
 ||httpsdns.baidu.com^
-||wanba.baidu.com^
-||iwan.baidu.com^
-||wan.baidu.com^
-||youxi.baidu.com^
 ||dns.alidns.com^
 ||httpdns.alicdn.com^
 ||amdc.alipay.com^
