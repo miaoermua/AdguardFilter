@@ -1,6 +1,6 @@
 ---
 name: Hosts report
-about: Create a report to help us improve
+about: 存在误杀我要报告
 title: ''
 labels: ''
 assignees: ''
@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 ## 遇到问题
+
+
 
 ## 来源
 
@@ -19,3 +21,4 @@ assignees: ''
 - [ ] 应用内(浏览器)
 - [ ] 应用
 - [ ] 监听网络
+- [ ] 系统应用
