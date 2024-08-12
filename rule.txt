@@ -165,6 +165,10 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 
+! # Ads - Leigod
+
+||p*-ad.adukwai.com^
+||ad*.sigmob.cn^
 
 ! # Ads - Xiaomi
 
@@ -259,8 +263,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 
 ! Block Built-in DNS
 
-||*.lan^
-||_*._*^
 ||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.browser.miui.com^
