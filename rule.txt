@@ -162,8 +162,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||mssdk-bu.bytedance.com^
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
-||pangolin-sdk-toutiao-b.com^
 
 ! # Ads - Leigod
 
