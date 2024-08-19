@@ -237,9 +237,15 @@ some sources: https://github.com/jdlingyu/ad-wars
 
 ||ping.pinyin.sogou.com^
 
-! Block PCDN BiliBili
+! Block PCDN
 
 ||*.mcdn.bilivideo.cn^
+||punch.p2p.qq.com^
+||musicps.p2p.qq.com^
+||musicstun.p2p.qq.com^
+||musicpunch.p2p.qq.com^
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 
 
 ! BAT Built-in DNS
