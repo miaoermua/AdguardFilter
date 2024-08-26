@@ -306,12 +306,10 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.bcelive.com^
 ||*.dns-detect.alicdn.com^
-||www-env.dropbox-dns.com^
 ||httpdns.music.ntes53.netease.com^
 ||*.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
-||dropbox-dns.com^
 ||v6-data.video.dns.iqiyi.com^
 ||httpdns.bilivideo.com^
 ||dns.icoa.cn^
