@@ -181,7 +181,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||track.xiachufang.com^
 ||trackbeat.xiachufang.com^
 ||data.bilibili.cn^
-||dataflow.biliapi.com^
 ||android.bugly.qq.com^
 ||line1-log.biligame.net^
 ||tracking.miui.com^
