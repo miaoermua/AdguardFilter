@@ -1,7 +1,6 @@
 ! Block Adscompany
 some sources: https://github.com/jdlingyu/ad-wars
 
-||*.mobi^
 ||tt.cn^
 ||beizi.biz^
 ||umeng.com.gds.alibabadns.com^
