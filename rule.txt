@@ -165,7 +165,7 @@ some sources: https://github.com/jdlingyu/ad-wars
 ! # Ads - Leigod
 
 ||p*-ad.adukwai.com^
-||ad*.sigmob.cn^
+||adservice.sigmob.cn^
 
 ! # Ads - Xiaomi
 
