@@ -2,6 +2,11 @@
 
 **更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS**
 
+[![Stars](https://m3-markdown-badges.vercel.app/stars/3/3/miaoermua/AdguardFilter)](https://github.com/miaoermua/AdguardFilter)
+[![Issues](https://m3-markdown-badges.vercel.app/issues/1/2/miaoermua/AdguardFilter)](https://github.com/miaoermua/AdguardFilter/issues)
+[![Support](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://www.miaoer.net/sponsor)
+[![COPYING](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg)](https://github.com/miaoermua/CatWrt/blob/main/LICENSE)
+
 禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 请求牢牢地把握自己手里。
 
 人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)
