@@ -1,0 +1,4 @@
+!  Adobe
+
+||*.adobe*.io^
+||*.adobe.com^
