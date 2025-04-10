@@ -19,8 +19,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 完整版
 
-因为不影响存量用户 rule.txt 为标准规则，因为 Apple & MicroSoft 较多域名，所以单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用
-
+因为不影响存量用户 rule.txt 为标准规则，因为 Apple & MicroSoft 较多域名，所以单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，
 否则由 Apple 提供的服务将无法使用 (如: iCloud, Find, App Store, Apple Music ……)。
 
 黑名单列表: `https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/bad_apple.txt`
@@ -29,7 +28,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 去广告
 
-只实现了关于微信广告，酷安广告，友盟的封禁。
+只实现了关于微信广告，酷安广告，友盟，雷神加速器的封禁。
 
 ## 跟踪器
 
