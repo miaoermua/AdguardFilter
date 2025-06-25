@@ -166,6 +166,7 @@ some sources: https://github.com/jdlingyu/ad-wars
 
 ||p*-ad.adukwai.com^
 ||adservice.sigmob.cn^
+||dc.sigmob.cn^
 
 ! # Ads - Xiaomi
 
