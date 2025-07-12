@@ -178,6 +178,26 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
+! # Tracking - Xiaomi
+
+||tracker.xiaomixiaoai.com^
+||exp.sug.browser.miui.com^
+||sentry.d.xiaomi.net^
+||httpdns.browser.miui.com^
+||track.ad.xiaomi.com^
+||api.sec.miui.com^
+||metok.sys.miui.com^
+||auth.be.sec.miui.com^
+||tracker.ai.xiaomi.com^
+||api.miui.security.xiaomi.com^
+
+! Block Anti-Fraud Center Tracking
+
+||miav-cse.avlyun.com^
+||a0.app.xiaomi.com^
+||miui-fxcse.avlyun.com^
+||api.installer.xiaomi.com^$important
+
 
 ! Tracking
 
@@ -198,11 +218,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||track.mituo.cn^
 ||cc-api-data.adobe.io^
 ||log*.aliyuncs.com^
-||api.sec.miui.com^
-||metok.sys.miui.com^
-||auth.be.sec.miui.com^
-||tracker.ai.xiaomi.com^
-||api.miui.security.xiaomi.com^
 ||beacon-api.aliyuncs.com^
 ||g.doubleclick.net^
 ||google-analytics.com^
@@ -226,15 +241,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||*-inapps.appsflyersdk.com^
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
-
-
-! Block Anti-Fraud Center Tracking
-
-||miav-cse.avlyun.com^
-||a0.app.xiaomi.com^
-||miui-fxcse.avlyun.com^
-||api.installer.xiaomi.com^$important
-
 
 ! Input
 
@@ -272,7 +278,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 
 ||doh.dns.apple.com^
 ||dns.jd.com^
-||httpdns.browser.miui.com^
 ||httpdns.danuoyi.tbcache.com^
 ||music.httpdns.c.163.com^
 ||httpdns.n.netease.com^
