@@ -172,24 +172,26 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||track.sigmob.cn^
 ||tracktp.sigmob.cn^
 
+
 ! # Ads - Xiaomi
 
 ||ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
+
 ! # Tracking - Xiaomi
 
 ||tracker.xiaomixiaoai.com^
 ||exp.sug.browser.miui.com^
 ||sentry.d.xiaomi.net^
-||httpdns.browser.miui.com^
 ||track.ad.xiaomi.com^
 ||api.sec.miui.com^
 ||metok.sys.miui.com^
 ||auth.be.sec.miui.com^
 ||tracker.ai.xiaomi.com^
 ||api.miui.security.xiaomi.com^
+
 
 ! Block Anti-Fraud Center Tracking
 
@@ -272,6 +274,7 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
+||httpdns.browser.miui.com^
 
 
 ! Block Built-in DNS
