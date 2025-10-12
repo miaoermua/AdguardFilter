@@ -244,6 +244,11 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
 
+! Virus
+! # zygisk.apk - com.android.append
+
+||fdkss.sbs^
+
 ! Input
 
 ||ping.pinyin.sogou.com^
