@@ -192,6 +192,11 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||tracker.ai.xiaomi.com^
 ||api.miui.security.xiaomi.com^
 
+! # Tracking - ms-edge
+
+||browser.events.data.msn.cn^
+||browser.events.data.msn.com^
+
 
 ! Block Anti-Fraud Center Tracking
 
