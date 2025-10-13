@@ -313,7 +313,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||dig-ec.bdurl.net^
 ||dns.cyida.com^
 ||dns.weibo.cn^
-||dns-info-static.hitwh.net.cn^
 ||wlay.dd-dns.de^
 ||now-dns.net^
 ||httpdns.kwd.inkuai.com^
