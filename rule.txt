@@ -1,5 +1,5 @@
 ! Block Adscompany
-some sources: https://github.com/jdlingyu/ad-wars
+! some sources: https://github.com/jdlingyu/ad-wars
 
 ||tt.cn^
 ||beizi.biz^
@@ -198,7 +198,7 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||browser.events.data.msn.com^
 
 
-! Block Anti-Fraud Center Tracking
+! Block Anti-Fraud Center Tracking (xiaomi)
 
 ||miav-cse.avlyun.com^
 ||a0.app.xiaomi.com^
