@@ -254,6 +254,10 @@
 
 ||fdkss.sbs^
 
+! # nextjs cve
+
+||*.1433.eu.org
+
 ! Input
 
 ||ping.pinyin.sogou.com^
