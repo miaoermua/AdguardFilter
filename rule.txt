@@ -293,7 +293,7 @@
 
 ! Block Built-in DNS
 
-||doh.dns.apple.com^
+# ||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.danuoyi.tbcache.com^
 ||music.httpdns.c.163.com^
