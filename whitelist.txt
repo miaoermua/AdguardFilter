@@ -1,6 +1,7 @@
 ! Apple
 ! https://support.apple.com/zh-cn/HT210060
 ! https://support.apple.com/zh-cn/101555
+! Update date: 2025-08-19
 
 @@||albert.apple.com^$important
 @@||captive.apple.com^$important
@@ -72,28 +73,28 @@
 @@||updates-http.cdn-apple.com^$important
 @@||updates.cdn-apple.com^$important
 @@||xp.apple.com^$important
-gdmf-ados.apple.com
-gsra.apple.com
-wkms-public.apple.com
-fcs-keys-pub-prod.cdn-apple.com
+@@||gdmf-ados.apple.com^$important
+@@||gsra.apple.com^$important
+@@||wkms-public.apple.com^$important
+@@||fcs-keys-pub-prod.cdn-apple.com^$important
 
 @@||itunes.apple.com^$important
 @@||apps.apple.com^$important
 @@||mzstatic.com^$important
 @@||itunes.apple.com^$important
 @@||ppq.apple.com^$important
-api.apple-cloudkit.com
-appattest.apple.com
-apps-marketplace.apple.com
-token.safebrowsing.apple.com
+@@||api.apple-cloudkit.com^$important
+@@||appattest.apple.com^$important
+@@||apps-marketplace.apple.com^$important
+@@||token.safebrowsing.apple.com^$important
 #token.safebrowsing.apple
-audiocontentdownload.apple.com
-devimages-cdn.apple.com
-download.developer.apple.com
-playgrounds-assets-cdn.apple.com
-playgrounds-cdn.apple.com
-sylvan.apple.com
-gateway.icloud.com
+@@||audiocontentdownload.apple.com^$important
+@@||devimages-cdn.apple.com^$important
+@@||download.developer.apple.com^$important
+@@||playgrounds-assets-cdn.apple.com^$important
+@@||playgrounds-cdn.apple.com^$important
+@@||sylvan.apple.com^$important
+@@||gateway.icloud.com^$important
 
 @@||appldnld.apple.com^$important
 @@||appldnld.apple.com.edgesuite.net^$important
@@ -118,7 +119,7 @@ gateway.icloud.com
 
 @@||diagassets.apple.com^$important
 
-doh.dns.apple.com
+@@||doh.dns.apple.com^$important
 
 @@||certs.apple.com^$important
 @@||crl.apple.com^$important
@@ -153,10 +154,10 @@ doh.dns.apple.com
 
 @@||guzzoni.apple.com^$important
 @@||smoot.apple.com^$important
-apple-relay.cloudflare.com
-apple-relay.fastly-edge.com
-cp4.cloudflare.com
-apple-relay.apple.com
+@@||apple-relay.cloudflare.com
+@@||apple-relay.fastly-edge.com
+@@||cp4.cloudflare.com^$important
+@@||apple-relay.apple.com^$important
 
 @@||app-site-association.cdn-apple.com^$important
 @@||app-site-association.networking.apple^$important
@@ -165,10 +166,10 @@ apple-relay.apple.com
 @@||humb.apple.com^$important
 @@||iphonesubmissions.apple.com^$important
 
-smp-device-content.apple.com
-idv.cdn-apple.com
-idv-prod1.apple.com
-humb.apple.com
+@@||smp-device-content.apple.com^$important
+@@||idv.cdn-apple.com^$important
+@@||idv-prod1.apple.com^$important
+@@||humb.apple.com^$important
 # @@||audiocontentdownload.apple.com^$important
 # @@||devimages-cdn.apple.com^$important
 # @@||download.developer.apple.com^$important
