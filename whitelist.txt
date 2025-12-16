@@ -154,8 +154,8 @@
 
 @@||guzzoni.apple.com^$important
 @@||smoot.apple.com^$important
-@@||apple-relay.cloudflare.com
-@@||apple-relay.fastly-edge.com
+@@||apple-relay.cloudflare.com^$important
+@@||apple-relay.fastly-edge.com^$important
 @@||cp4.cloudflare.com^$important
 @@||apple-relay.apple.com^$important
 
