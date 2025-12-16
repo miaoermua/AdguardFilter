@@ -11,6 +11,7 @@
 @@||time-ios.apple.com^$important
 @@||time.apple.com^$important
 @@||time-macos.apple.com^$important
+
 @@||push.apple.com^$important
 @@||deviceenrollment.apple.com^$important
 @@||deviceservices-external.apple.com^$important
@@ -20,6 +21,9 @@
 @@||mdmenrollment.apple.com^$important
 @@||setup.icloud.com^$important
 @@||vpp.itunes.apple.com^$important
+@@||appattest.apple.com^$important
+@@||axm-servicediscovery.apple.com^$important
+
 @@||business.apple.com^$important
 @@||school.apple.com^$important
 @@||appleid.cdn-apple.com^$important
@@ -32,7 +36,11 @@
 @@||vertexsmb.com^$important
 @@||www.apple.com.cn^$important
 @@||upload.appleschoolcontent.com^$important
+
+
 @@||axm-adm-enroll.apple.com^$important
+
+
 @@||axm-adm-mdm.apple.com^$important
 @@||axm-adm-scep.apple.com^$important
 @@||axm-app.apple.com^$important
