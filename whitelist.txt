@@ -1,5 +1,7 @@
 ! Apple
 ! https://support.apple.com/zh-cn/HT210060
+! https://support.apple.com/zh-cn/101555
+! Update date: 2025-08-19
 
 @@||albert.apple.com^$important
 @@||captive.apple.com^$important
@@ -11,6 +13,7 @@
 @@||time-ios.apple.com^$important
 @@||time.apple.com^$important
 @@||time-macos.apple.com^$important
+
 @@||push.apple.com^$important
 @@||deviceenrollment.apple.com^$important
 @@||deviceservices-external.apple.com^$important
@@ -20,6 +23,9 @@
 @@||mdmenrollment.apple.com^$important
 @@||setup.icloud.com^$important
 @@||vpp.itunes.apple.com^$important
+@@||appattest.apple.com^$important
+@@||axm-servicediscovery.apple.com^$important
+
 @@||business.apple.com^$important
 @@||school.apple.com^$important
 @@||appleid.cdn-apple.com^$important
@@ -32,12 +38,15 @@
 @@||vertexsmb.com^$important
 @@||www.apple.com.cn^$important
 @@||upload.appleschoolcontent.com^$important
+
+
 @@||axm-adm-enroll.apple.com^$important
 @@||axm-adm-mdm.apple.com^$important
 @@||axm-adm-scep.apple.com^$important
 @@||axm-app.apple.com^$important
 @@||apple-mapkit.com^$important
 @@||icons.axm-usercontent-apple.com^$important
+
 @@||s.mzstatic.com^$important
 @@||play.itunes.apple.com^$important
 @@||ws-ee-maidsvc.icloud.com^$important
@@ -45,6 +54,7 @@
 @@||pg-bootstrap.itunes.apple.com^$important
 @@||cls-iosclient.itunes.apple.com^$important
 @@||cls-ingest.itunes.apple.com^$important
+
 @@||appldnld.apple.com^$important
 @@||configuration.apple.com^$important
 @@||gdmf.apple.com^$important
@@ -52,7 +62,7 @@
 @@||gs.apple.com^$important
 @@||ig.apple.com^$important
 @@||mesu.apple.com^$important
-@@||ns.itunes.apple.com^$important
+# @@||ns.itunes.apple.com^$important
 @@||oscdn.apple.com^$important
 @@||osrecovery.apple.com^$important
 @@||skl.apple.com^$important
@@ -63,28 +73,54 @@
 @@||updates-http.cdn-apple.com^$important
 @@||updates.cdn-apple.com^$important
 @@||xp.apple.com^$important
+@@||gdmf-ados.apple.com^$important
+@@||gsra.apple.com^$important
+@@||wkms-public.apple.com^$important
+@@||fcs-keys-pub-prod.cdn-apple.com^$important
+
 @@||itunes.apple.com^$important
 @@||apps.apple.com^$important
 @@||mzstatic.com^$important
 @@||itunes.apple.com^$important
 @@||ppq.apple.com^$important
+@@||api.apple-cloudkit.com^$important
+@@||appattest.apple.com^$important
+@@||apps-marketplace.apple.com^$important
+@@||token.safebrowsing.apple.com^$important
+#token.safebrowsing.apple
+@@||audiocontentdownload.apple.com^$important
+@@||devimages-cdn.apple.com^$important
+@@||download.developer.apple.com^$important
+@@||playgrounds-assets-cdn.apple.com^$important
+@@||playgrounds-cdn.apple.com^$important
+@@||sylvan.apple.com^$important
+@@||gateway.icloud.com^$important
+
 @@||appldnld.apple.com^$important
 @@||appldnld.apple.com.edgesuite.net^$important
 @@||itunes.com^$important
 @@||itunes.apple.com^$important
 @@||updates-http.cdn-apple.com^$important
 @@||updates.cdn-apple.com^$important
+
 @@||lcdn-registration.apple.com^$important
 @@||suconfig.apple.com^$important
 @@||xp-cdn.apple.com^$important
+
 @@||lcdn-locator.apple.com^$important
 @@||serverstatus.apple.com^$important
-@@||api.apple-cloudkit.com^$important
-@@||appattest.apple.com^$important
+
+# @@||api.apple-cloudkit.com^$important
+# @@||appattest.apple.com^$important
+
 @@||bpapi.apple.com^$important
 @@||cssubmissions.apple.com^$important
 @@||fba.apple.com^$important
+
 @@||diagassets.apple.com^$important
+
+@@||doh.dns.apple.com^$important
+
 @@||certs.apple.com^$important
 @@||crl.apple.com^$important
 @@||crl.entrust.net^$important
@@ -96,10 +132,12 @@
 @@||ocsp.entrust.net^$important
 @@||ocsp2.apple.com^$important
 @@||valid.apple.com^$important
+
 @@||appleid.apple.com^$important
 @@||appleid.cdn-apple.com^$important
 @@||idmsa.apple.com^$important
 @@||gsa.apple.com^$important
+
 @@||apple-cloudkit.com^$important
 @@||apple-livephotoskit.com^$important
 @@||apzones.com^$important
@@ -113,20 +151,32 @@
 @@||mask.icloud.com^$important
 @@||mask-h2.icloud.com^$important
 @@||mask-api.icloud.com^$important
+
 @@||guzzoni.apple.com^$important
 @@||smoot.apple.com^$important
+@@||apple-relay.cloudflare.com
+@@||apple-relay.fastly-edge.com
+@@||cp4.cloudflare.com^$important
+@@||apple-relay.apple.com^$important
+
 @@||app-site-association.cdn-apple.com^$important
 @@||app-site-association.networking.apple^$important
+
 @@||pos-device.apple.com^$important
 @@||humb.apple.com^$important
-@@||phonesubmissions.apple.com^$important
-@@||audiocontentdownload.apple.com^$important
-@@||devimages-cdn.apple.com^$important
-@@||download.developer.apple.com^$important
-@@||playgrounds-assets-cdn.apple.com^$important
-@@||playgrounds-cdn.apple.com^$important
-@@||sylvan.apple.com^$important
-@@||identity.ess.apple.com^$important
+@@||iphonesubmissions.apple.com^$important
+
+@@||smp-device-content.apple.com^$important
+@@||idv.cdn-apple.com^$important
+@@||idv-prod1.apple.com^$important
+@@||humb.apple.com^$important
+# @@||audiocontentdownload.apple.com^$important
+# @@||devimages-cdn.apple.com^$important
+# @@||download.developer.apple.com^$important
+# @@||playgrounds-assets-cdn.apple.com^$important
+# @@||playgrounds-cdn.apple.com^$important
+# @@||sylvan.apple.com^$important
+# @@||identity.ess.apple.com^$important
 
 
 ! MicroSoft
