@@ -3,6 +3,10 @@
 ! https://support.apple.com/zh-cn/101555
 ! Update date: 2025-08-19
 
+# https://www.reddit.com/r/iCloud/comments/xyzp15/are_links_starting_with_cvwsicloudcontentcom_safe/?tl=zh-hans
+@@||cvws.icloud-content.com.cn^$important
+@@||cvws.icloud-content.com^$important
+
 @@||albert.apple.com^$important
 @@||captive.apple.com^$important
 @@||gs.apple.com^$important
