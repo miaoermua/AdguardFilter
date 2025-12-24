@@ -1,4 +1,7 @@
 !  Adobe
 
+! Offline use is possible through blocking.
+! If you need to use online features, make sure you don't add this rule...
+
 ||*.adobe*.io^
 ||*.adobe.com^
