@@ -7,7 +7,7 @@
 [![Support](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://www.miaoer.net/sponsor)
 [![COPYING](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg)](https://github.com/miaoermua/CatWrt/blob/main/LICENSE)
 
-禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 请求牢牢地把握自己手里。
+禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，定期更新网络安全舆情，将 DNS 请求牢牢地把握自己手里。
 
 使用人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)，欢迎大家 PR 修改参与到项目中来。
 
@@ -23,6 +23,8 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 不足之处可以使用 AdGuard DNS filter 这个默认规则进行补充，此 repo 最大限度保证可用性，DNS 样本数据仅来自：Apple，Xiaomi，OnePlus(Unlock Bootloader) 的部分内容……无法覆盖全部，必然会有没覆盖的厂商和漏网之鱼。
 
 另外如果使用了 Apple 的规则，请确定你有定期帮忙去看看苹果会不会更新白名单域名这样的事，众所周知苹果也有草台班子，你也不想的苹果设备会遇到奇奇怪怪的问题～。
+
+部分规则必定会参考到其他规则库，如有冒犯请见谅。
 
 ## 完整版
 
