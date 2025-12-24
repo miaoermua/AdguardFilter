@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 不足之处可以使用 AdGuard DNS filter 这个默认规则进行补充，此 repo 最大限度保证可用性，DNS 样本数据仅来自：Apple，Xiaomi，OnePlus(Unlock Bootloader) 的部分内容……无法覆盖全部，必然会有没覆盖的厂商和漏网之鱼。
 
-另外如果使用了 Apple 的规则，请确定你有定期帮忙去看看苹果会不会更新白名单域名这样的是，众所周知苹果也有草台班子。
+另外如果使用了 Apple 的规则，请确定你有定期帮忙去看看苹果会不会更新白名单域名这样的事，众所周知苹果也有草台班子，你也不想的苹果设备会遇到奇奇怪怪的问题～。
 
 ## 完整版
 
@@ -57,4 +57,4 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 *缺点*: 有几率不能缓存视频，因为解析下载的地址一般不会跟随播放器重定向，如遇到缓存视频问题可以临时加白，实测大部分情况不影响。
 
-另外推荐将 B 站的部分域名重写为 `A` ，使用 IPv4 较大可能将 B 站使用 IPv6 卡顿的问题缓解。
+另外推荐将 B 站的部分域名通过 DNS 重写为 `A` ，使用 IPv4 较大可能将 B 站“使用 IPv6 卡顿”的问题进行缓解。
