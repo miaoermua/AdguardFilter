@@ -9,7 +9,7 @@
 
 禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 请求牢牢地把握自己手里。
 
-使用人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)
+使用人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)，欢迎大家 PR 修改参与到项目中来。
 
 
 AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表
@@ -18,11 +18,15 @@ AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表
 https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 ```
 
+
+
 不足之处可以使用 AdGuard DNS filter 这个默认规则进行补充，此 repo 最大限度保证可用性，DNS 样本数据仅来自：Apple，Xiaomi，OnePlus(Unlock Bootloader) 的部分内容……无法覆盖全部，必然会有没覆盖的厂商和漏网之鱼。
+
+另外如果使用了 Apple 的规则，请确定你有定期帮忙去看看苹果会不会更新白名单域名这样的是，众所周知苹果也有草台班子。
 
 ## 完整版
 
-因为不影响存量用户 `rule.txt` 为标准规则，因为 Apple & Microsoft 较多域名，所以单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，
+为了不影响存量用户 `rule.txt` 为标准规则，因为 Apple & Microsoft 较多域名，因此我们单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，
 否则由 Apple 提供的服务将无法使用 (如: iCloud, Find, App Store, Apple Music ……)。
 
 黑名单列表: `https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/bad_apple.txt`
