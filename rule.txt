@@ -205,6 +205,8 @@
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^$important
 
+||dm.wo.com.cn^
+
 
 ! Tracking
 
