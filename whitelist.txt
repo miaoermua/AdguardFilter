@@ -186,7 +186,7 @@
 @@||api-business.apple.com^$important
 @@||api-school.apple.com^$important
 @@||apple-native-relay.apple.com^$important
-@@||apple-dns.net^$important
+# @@||apple-dns.net^$important
 @@||playground-assets-cdn.apple.com^$important
 @@||playground-cdn.apple.com^$important
 
@@ -509,7 +509,7 @@
 @@||connectivitycheck.android.com^$important
 @@||play.google.com^$important
 @@||android.com^$important
-@@||google-analytics.com^$important
+# @@||google-analytics.com^$important
 @@||*.gvt2.com^$important
 @@||*.gvt3.com^$important
 @@||gcm-http.googleapis.com^$important
@@ -624,3 +624,311 @@
 
 @@||tracking.epicgames.com^$important
 @@||js.hcaptcha.com^$important
+
+
+! WeCom
+! https://work.weixin.qq.com/h5app/wework_domain_ip/latest
+
+@@||gap.work.weixin.qq.com^$important
+@@||i.work.weixin.qq.com^$important
+@@||imunion.weixin.qq.com^$important
+@@||oss.work.weixin.qq.com^$important
+@@||agent.work.weixin.qq.com^$important
+@@||cqfront.wxwork.qq.com^$important
+@@||hkfront.wxwork.qq.com^$important
+@@||shfront.wxwork.qq.com^$important
+@@||szfront.wxwork.qq.com^$important
+@@||tjfront.wxwork.qq.com^$important
+@@||weboffice.work.weixin.qq.com^$important
+@@||wwcdn.weixin.qq.com^$important
+@@||p.qlogo.cn^$important
+@@||thirdwx.qlogo.cn^$important
+@@||wx.qlogo.cn^$important
+@@||wework.qpic.cn^$important
+@@||res.wx.qq.com^$important
+@@||rescdn.qqmail.com^$important
+
+! Tencent Meeting
+! https://meeting.tencent.com/support/topic/1929
+! https://cdn.meeting.tencent.com/upload/firewall/domain_ip.json
+! Update date: 2026-07-10
+
+@@||meeting.tencent.com^$important
+@@||cdn.meeting.tencent.com^$important
+@@||conn.wemeet.tencent.com^$important
+@@||meeting.qq.com^$important
+@@||work.medialab.qq.com^$important
+@@||quic.conn.wemeet.qq.com^$important
+@@||tencentmeeting.cn^$important
+@@||cgi.tencentmeeting.cn^$important
+@@||conn.tencentmeeting.cn^$important
+@@||quic.tencentmeeting.cn^$important
+@@||wemeet.qq.com^$important
+@@||conn.corp.wemeet.tencent.com^$important
+@@||ws.wemeet.tencent.com^$important
+@@||liveplay.wemeet.tencent.com^$important
+@@||updatecdn.meeting.qq.com^$important
+@@||source.meeting.qq.com^$important
+@@||access.prtc.tencent.com^$important
+@@||voovmeeting.com^$important
+@@||conn.voovmeeting.com^$important
+@@||ws.voovmeeting.com^$important
+@@||api.voovmeeting.com^$important
+@@||*.meeting.tencent.com^$important
+@@||*.wemeet.tencent.com^$important
+@@||*.meeting.qq.com^$important
+@@||*.wemeet.qq.com^$important
+@@||*.tencentmeeting.cn^$important
+@@||*.voovmeeting.com^$important
+
+! Alibaba Mail
+! https://help.aliyun.com/document_detail/467938.html
+! Update date: 2026-08-21
+
+@@||qiye.aliyun.com^$important
+@@||mail.mxhichina.com^$important
+@@||work.aliyun.com^$important
+@@||mailsso.mxhichina.com^$important
+@@||mailsso.aliyun.com^$important
+@@||mail.qiye.aliyun.com^$important
+@@||smtp.qiye.aliyun.com^$important
+@@||smtp.mxhichina.com^$important
+@@||imap.qiye.aliyun.com^$important
+@@||imap.mxhichina.com^$important
+@@||pop.qiye.aliyun.com^$important
+@@||pop3.mxhichina.com^$important
+@@||mail.dingtalk.com^$important
+@@||alimei-api.alibaba.com^$important
+@@||alimei-auth.alibaba.com^$important
+@@||alimei-content.alibaba.com^$important
+@@||alimei-preview.alibaba.com^$important
+@@||alimei-sub.alibaba.com^$important
+@@||mail.alibaba-inc.com^$important
+@@||g.alicdn.com^$important
+@@||alimail-cn.aliyuncs.com^$important
+@@||alimail-update.alibaba.com^$important
+@@||control.wangwang.1688.com^$important
+@@||control.im.alisoft.com^$important
+@@||download.wangwang.1688.com^$important
+@@||download.alicdn.com^$important
+@@||stat.wangwang.1688.com^$important
+@@||atmgateway-client.alibaba.com^$important
+@@||spf.qiye.aliyun.com^$important
+@@||spf.sg.aliyun.com^$important
+@@||spf.hk.aliyun.com^$important
+@@||spf.de.alibabacloud.com^$important
+@@||spf.us.alibabacloud.com^$important
+
+! OpenAI
+! https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
+
+@@||*.auth.openai.com^$important
+@@||*.chatgpt.com^$important
+@@||*.ct.sendgrid.net^$important
+@@||*.intercom.io^$important
+@@||*.intercomcdn.com^$important
+@@||*.oaistatic.com^$important
+@@||*.oaiusercontent.com^$important
+@@||*.openai.com^$important
+@@||*.oaistatsig.com^$important
+@@||android.chat.openai.com^$important
+@@||auth0.openai.com^$important
+@@||cdn.openaimerge.com^$important
+@@||cdn.platform.openai.com^$important
+@@||cdn.workos.com^$important
+@@||challenges.cloudflare.com^$important
+@@||chat.openai.com^$important
+@@||desktop.chat.openai.com^$important
+@@||forwarder.workos.com^$important
+@@||frontend-apps-multi-region.workos.com^$important
+@@||humb.apple.com^$important
+@@||images.workoscdn.com^$important
+@@||ios.chat.openai.com^$important
+@@||js.intercomcdn.com^$important
+@@||js.stripe.com^$important
+@@||o207216.ingest.sentry.io^$important
+@@||o33249.ingest.sentry.io^$important
+@@||rum.browser-intake-datadoghq.com^$important
+@@||setup.auth.openai.com^$important
+@@||setup.workos.com^$important
+@@||tcr9i.chat.openai.com^$important
+@@||workos.imgix.net^$important
+@@||ws.chatgpt.com^$important
+
+! Zoom
+! https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548
+! Update date: 2026-10-07
+
+@@||*.zoom.us^$important
+@@||*.zoom.com^$important
+@@||*.zoomstatus.com^$important
+@@||*.zoomapp.cloud^$important
+@@||*.hcaptcha.com^$important
+@@||zoom.us^$important
+@@||zdmapi.zoom.us^$important
+@@||cdn.cookielaw.org^$important
+@@||googletagmanager.com^$important
+@@||gstatic.com^$important
+@@||googleapis.com^$important
+@@||crl3.digicert.com^$important
+@@||crl4.digicert.com^$important
+@@||ocsp.digicert.com^$important
+@@||crl.entrust.net^$important
+@@||certificates.godaddy.com^$important
+@@||crl.godaddy.com^$important
+@@||ocsp.godaddy.com^$important
+@@||certificates.starfieldtech.com^$important
+@@||crl.starfieldtech.com^$important
+@@||ocsp.starfieldtech.com^$important
+@@||ocsp.sectigo.com^$important
+@@||ocsp.usertrust.com^$important
+@@||ocsp.comodoca.com^$important
+@@||crl.sectigo.com^$important
+@@||crl.usertrust.com^$important
+@@||crl.comodoca.com^$important
+
+! Cloudflare WARP
+! https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/deployment/firewall/
+! Update date: 2026-10-28
+
+@@||api.devices.cloudflare.com^$important
+@@||zero-trust-client.cloudflareclient.com^$important
+@@||notifications.cloudflareclient.com^$important
+@@||cloudflare-dns.com^$important
+@@||cloudflareportal.com^$important
+@@||cloudflareok.com^$important
+@@||cloudflarecp.com^$important
+@@||engage.cloudflareclient.com^$important
+@@||a.nel.cloudflare.com^$important
+@@||time.cloudflare.com^$important
+
+! Adobe
+! https://helpx.adobe.com/enterprise/kb/network-endpoints.html
+
+@@||*.adobe.com^$important
+@@||*.adobe.io^$important
+@@||*.adobecc.com^$important
+@@||*.adobecces.com^$important
+@@||*.adobeccstatic.com^$important
+@@||*.adobedtm.com^$important
+@@||*.adobeexchange.com^$important
+@@||*.adobegenuine.com^$important
+@@||*.adobegov.com^$important
+@@||*.adobe-identity.com^$important
+@@||*.adobejanus.com^$important
+@@||*.adobelogin.com^$important
+@@||*.adobedc.net^$important
+@@||*.adobeoobe.com^$important
+@@||*.adobeprojectm.com^$important
+@@||*.adobesc.com^$important
+@@||*.adobe-services.com^$important
+@@||*.adobess.com^$important
+@@||*.adobesunbreak.com^$important
+@@||*.adobetag.com^$important
+@@||*.behance.net^$important
+@@||*.ftcdn.net^$important
+@@||*.typekit.com^$important
+@@||*.typekit.net^$important
+@@||slp-statics.astockcdn.net^$important
+@@||*.s3.amazonaws.com^$important
+@@||gocart-web-prod-*.elb.amazonaws.com^$important
+@@||*.kinesisvideo.*.amazonaws.com^$important
+@@||*.s3-accelerate.amazonaws.com^$important
+@@||*.cloudfront.net^$important
+@@||firebase-settings.crashlytics.com^$important
+@@||firebase*.googleapis.com^$important
+@@||*.arkoselabs.com^$important
+
+
+! Anthropic
+! https://code.claude.com/docs/en/corporate-proxy
+
+@@||api.anthropic.com^$important
+@@||claude.ai^$important
+@@||claude.com^$important
+@@||platform.claude.com^$important
+@@||sso.claude.com^$important
+@@||mcp-proxy.anthropic.com^$important
+@@||downloads.claude.ai^$important
+@@||storage.googleapis.com^$important
+@@||registry.npmjs.org^$important
+@@||bridge.claudeusercontent.com^$important
+@@||*.frame.claudeusercontent.com^$important
+@@||github.com^$important
+@@||raw.githubusercontent.com^$important
+@@||*-review.googlesource.com^$important
+@@||http-intake.logs.us5.datadoghq.com^$important
+@@||browser-intake-us5-datadoghq.com^$important
+@@||formulae.brew.sh^$important
+@@||code.claude.com^$important
+@@||assets-proxy.anthropic.com^$important
+@@||*.claudeusercontent.com^$important
+@@||*.claudemcpcontent.com^$important
+
+! Cursor
+! https://cursor.com/docs/enterprise/network-configuration
+! https://cursor.com/help/troubleshooting/sign-in-domains
+
+@@||*.cursor.sh^$important
+@@||*.cursor-cdn.com^$important
+@@||*.cursorapi.com^$important
+@@||*.cursorvm.com^$important
+@@||*.*.cursorvm.com^$important
+@@||cursor.com^$important
+@@||*.cursor.com^$important
+@@||cursor-cdn.com^$important
+@@||marketplace.cursorapi.com^$important
+@@||downloads.cursor.com^$important
+@@||anysphere-binaries.s3.us-east-1.amazonaws.com^$important
+@@||agent-stores.s3.us-east-1.amazonaws.com^$important
+@@||agent-stores.s3.amazonaws.com^$important
+@@||cursor.blob.core.windows.net^$important
+@@||*.spacexsi.com^$important
+@@||*.grok.com^$important
+@@||*.grokusercontent.com^$important
+@@||*.grokipedia.com^$important
+@@||accounts.spacex.ai^$important
+@@||accounts.x.ai^$important
+@@||prod.authentication.cursor.sh^$important
+
+! GitHub Copilot
+! https://docs.github.com/en/copilot/reference/copilot-allowlist-reference
+
+@@||github.githubassets.com^$important
+@@||*.githubassets.com^$important
+@@||avatars.githubusercontent.com^$important
+@@||*.githubusercontent.com^$important
+@@||collector.github.com^$important
+@@||copilot-telemetry.githubusercontent.com^$important
+@@||default.exp-tas.com^$important
+@@||copilot-proxy.githubusercontent.com^$important
+@@||origin-tracker.githubusercontent.com^$important
+@@||*.githubcopilot.com^$important
+@@||*.individual.githubcopilot.com^$important
+@@||*.business.githubcopilot.com^$important
+@@||*.enterprise.githubcopilot.com^$important
+@@||copilot-reports.github.com^$important
+@@||copilot-reports-*.b01.azurefd.net^$important
+@@||usagereports*.blob.core.windows.net^$important
+@@||production-copilot-host-centralus.webpubsub.azure.com^$important
+@@||production-copilot-host-centralus-02.webpubsub.azure.com^$important
+@@||production-copilot-host-eastasia.webpubsub.azure.com^$important
+@@||production-copilot-host-austriaeast.webpubsub.azure.com^$important
+@@||production-copilot-host-westus.webpubsub.azure.com^$important
+@@||production-copilot-host-westus3.webpubsub.azure.com^$important
+@@||production-copilot-host.webpubsub.azure.com^$important
+@@||ai.azure.com^$important
+@@||api.catalog.azureml.ms^$important
+@@||*.api.azureml.ms^$important
+@@||amlwlrt4*.blob.core.windows.net^$important
+@@||vscode.dev^$important
+
+! xAI
+! https://docs.x.ai/build/enterprise
+
+@@||cli-chat-proxy.grok.com^$important
+@@||auth.x.ai^$important
+@@||api.x.ai^$important
+@@||code.grok.com^$important
+@@||assets.grok.com^$important
+@@||x.ai^$important
