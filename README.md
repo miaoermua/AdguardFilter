@@ -9,10 +9,12 @@
 
 禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，定期更新网络安全舆情，将 DNS 请求牢牢地把握自己手里。
 
-使用人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)，欢迎大家 PR 修改参与到项目中来。
+使用人工亲测减少误杀可能，[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)，欢迎大家 PR 修改参与到项目中来。
 
 
-AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表
+> AdGuard Home: DNS 黑名单 - 添加黑名单 - 添加一个自定义列表
+
+添加以下 URL 即可使用**基础规则**，当然你可以将 `miaoermua/AdguardFilter` 设为此规则名字，另外如果你有更全面的想法，可以添加下面的完整版，提供更全面的 DNS 考虑。
 
 ```url
 https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
@@ -20,7 +22,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 
 
-不足之处可以使用 AdGuard DNS filter 这个默认规则进行补充，此 repo 最大限度保证可用性，DNS 样本数据仅来自：Apple，Xiaomi，OnePlus(Unlock Bootloader) 的部分内容……无法覆盖全部，必然会有没覆盖的厂商和漏网之鱼。
+不足之处可以使用 AdGuard DNS filter 这个默认规则进行补充，此 repo 最大限度保证可用性，DNS 样本数据仅来自：Apple，Xiaomi，OnePlus(Unlock Bootloader) 的部分内容……无法覆盖全部，必然会有没覆盖的厂商和漏网之鱼。另外如果你已经使用别的 DNS 列表你需要了解受拦截的规则来源方，避免误杀误报此仓库。
 
 另外如果使用了 Apple 的规则，请确定你有定期帮忙去看看苹果会不会更新白名单域名这样的事，众所周知苹果也有草台班子，你也不想的苹果设备会遇到奇奇怪怪的问题～。
 
@@ -28,12 +30,15 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 完整版
 
-为了不影响存量用户 `rule.txt` 为标准规则，因为 Apple & Microsoft 较多域名，因此我们单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，
+为了不影响存量用户 `rule.txt` 为基础规则，因为 Apple & Microsoft 较多域名，因此单独增加了白名单规则 `whitelist.txt`，遵循官方公布给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，
 否则由 Apple 提供的服务将无法使用 (如: iCloud, Find, App Store, Apple Music ……)。
+
 
 黑名单列表: `https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/bad_apple.txt`
 
 白名单列表: `https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt`
+
+
 
 不建议使用 `adobe.txt` 这个规则，纯自用。
 
@@ -59,4 +64,4 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 *缺点*: 有几率不能缓存视频，因为解析下载的地址一般不会跟随播放器重定向，如遇到缓存视频问题可以临时加白，实测大部分情况不影响。
 
-另外推荐将 B 站的部分域名通过 DNS 重写为 `A` ，使用 IPv4 较大可能将 B 站“使用 IPv6 卡顿”的问题进行缓解。
+推荐将 B 站的部分域名通过 DNS 重写为 `A` ，使用 IPv4 较大可能将 B 站“使用 IPv6 卡顿”的问题进行缓解。

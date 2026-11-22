@@ -1,7 +1,7 @@
 ! Apple
 ! https://support.apple.com/zh-cn/HT210060
 ! https://support.apple.com/zh-cn/101555
-! Update date: 2025-08-19
+! Update date: 2026-07-31
 
 # https://www.reddit.com/r/iCloud/comments/xyzp15/are_links_starting_with_cvwsicloudcontentcom_safe/?tl=zh-hans
 @@||cvws.icloud-content.com.cn^$important
@@ -181,6 +181,14 @@
 # @@||playgrounds-cdn.apple.com^$important
 # @@||sylvan.apple.com^$important
 # @@||identity.ess.apple.com^$important
+
+@@||account.apple.com^$important
+@@||api-business.apple.com^$important
+@@||api-school.apple.com^$important
+@@||apple-native-relay.apple.com^$important
+@@||apple-dns.net^$important
+@@||playground-assets-cdn.apple.com^$important
+@@||playground-cdn.apple.com^$important
 
 
 ! MicroSoft
@@ -399,6 +407,9 @@
 @@||*.static.microsoft^
 @@||*.usercontent.microsoft^
 
+@@||aka.ms^$important
+@@||storage.live.com^$important
+
 
 ! Xiaomi
 ! https://github.com/unknownFalleN/xiaomi-dns-blocklist
@@ -423,8 +434,11 @@
 
 @@||broker.mina.mi.com^$important
 
+@@||ultimateota.d.miui.com^$important
+
 ! Google
 ! https://support.google.com/chrome/a/answer/6334001?hl=zh-Hans
+! https://support.google.com/a/answer/6334001?hl=zh-Hans
 
 @@||*.1e100.net1^
 @@||accounts.google.com^$important
@@ -466,6 +480,47 @@
 @@||www.googleapis.com^$important
 @@||www.gstatic.com^$important
 @@||youtubeeducation.com^$important
+
+@@||www.google.com^$important
+@@||alkalichromeosflexhwis2-pa.googleapis.com^$important
+@@||chromereporting-pa.googleapis.com^$important
+@@||*.1e100.net^$important
+@@||alt*.gstatic.com^$important
+@@||aicode.googleapis.com^$important
+@@||oauthaccountmanager.googleapis.com^$important
+@@||aratea-pa.googleapis.com^$important
+@@||play.googleapis.com^$important
+@@||connectivitycheck.gstatic.com^$important
+
+! Chrome Enterprise Premium
+@@||ingress.cloudproxy.app^$important
+@@||securegateway.goog^$important
+@@||*.securegateway.goog^$important
+@@||safebrowsingrealtime.googleapis.com^$important
+@@||secureconnect-pa.clients6.google.com^$important
+@@||secureconnect-pa.googleapis.com^$important
+@@||secureconnect-pa.mtls.clients6.google.com^$important
+
+! Web Store
+@@||chrome.google.com^$important
+@@||update.googleapis.com^$important
+
+! Google Play Android
+@@||connectivitycheck.android.com^$important
+@@||play.google.com^$important
+@@||android.com^$important
+@@||google-analytics.com^$important
+@@||*.gvt2.com^$important
+@@||*.gvt3.com^$important
+@@||gcm-http.googleapis.com^$important
+@@||gcm-xmpp.googleapis.com^$important
+@@||android.googleapis.com^$important
+@@||fcm.googleapis.com^$important
+@@||fcm-xmpp.googleapis.com^$important
+@@||pki.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||android.clients.google.com^$important
 
 
 ! Netflix
@@ -532,6 +587,7 @@
 
 ! Epic Games
 ! https://www.epicgames.com/help/zh-CN/c5719357686683/c5719341353627/epic-games-fortnite-a5720352654107#whitelist
+! https://www.epicgames.com/help/technical-support-c-36624475/a15422130
 
 @@||account-public-service-prod03.ol.epicgames.com^$important
 @@||launcherwaitingroom-public-service-prod06.ol.epicgames.com^$important
@@ -565,3 +621,6 @@
 @@||launcher.store.epicgames.com^$important
 @@||*epicgames*myqcloud.com*^
 @@||*unrealengine*myqcloud.com*^
+
+@@||tracking.epicgames.com^$important
+@@||js.hcaptcha.com^$important
